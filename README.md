@@ -14,3 +14,6 @@ Available for Review:
     • Redacted incident reports and supporting documentation
 
 Inquiries from newsrooms, legal watchdogs, and public advocates are welcomed.
+
+
+https://paste.trove.cz/?73ae42fe4c6b8f2d#Ea5pmZAyVqrt95WXQrWy6SZHVaob2Bthxz9j6RSYFdZt
