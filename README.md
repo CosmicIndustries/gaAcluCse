@@ -193,3 +193,25 @@ Bernie Sanders	“The American Oligarchy Must Be Broken” (2020) — concentrat
 Naomi Klein	“Disaster Capitalism and the Poor” (various) — critique of exploitation in crises	Video Compilation (YouTube)
 Cornel West	“We Can’t Save Democracy Without the Poor” (various lectures)	Lecture Clips (YouTube)
 Arundhati Roy	“Come September” (2002) — imperialism, capitalism, and the global poor	Transcript (ratical.org)
+
+
+
+Table with Notable Excerpts
+Speaker	Title / Context	Year	Link	Notable Excerpt
+Frederick Douglass	What to the Slave is the Fourth of July?	1852	Read/Audio (NPR)	“What, to the American slave, is your 4th of July? I answer; a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.”
+Sojourner Truth	Ain’t I a Woman?	1851	Transcript (NPS)	“That man over there says that women need to be helped into carriages, and lifted over ditches, and to have the best place everywhere. Nobody ever helps me into carriages, or over mud-puddles, or gives me any best place!”
+Mother Jones	Speech to miners and workers	Early 1900s	Excerpt (Khan Academy)	“Pray for the dead and fight like hell for the living.”
+Franklin D. Roosevelt	The Forgotten Man	1932	Transcript (American Rhetoric)	“Who is the forgotten man at the bottom of the economic pyramid? That man is, of course, the American worker, the small farmer, the family that tills the soil, and the family that works with their hands.”
+Martin Luther King Jr.	I’ve Been to the Mountaintop	1968	Text + Audio (King Institute)	“There comes a time when a man must stand up—not just for himself, but for all humanity… And the great issue is this: the fight for jobs and justice.”
+Fannie Lou Hamer	I’m Sick and Tired of Being Sick and Tired	1964	Text (SNCC Archive)	“I question America because I have heard so many promises that weren’t kept.”
+Václav Havel	New Year's Address to the Nation	1990	Text (Vaclav Havel Library)	“The power of the powerless lies in their ability to refuse to live a lie.”
+Bernie Sanders	The American Oligarchy Must Be Broken	2020	Speeches (BernieSanders.com)	“We are the only major country on Earth not to guarantee healthcare to all people as a right. That is an embarrassment to our nation.”
+Arundhati Roy	Come September	2002	Transcript (Ratical.org)	“The globalized corporate economy is built on the poverty of the poor.”
+
+Summary and Reflection
+These speeches share a common thread: the spotlight on systemic failures that condemn millions to poverty, neglect, and injustice.
+
+The voices range from abolitionists, early labor activists, civil rights leaders, to modern-day progressives and international figures.
+
+The rhetorical power comes from vivid personal testimony, moral indictment, and a call to collective action.
+
