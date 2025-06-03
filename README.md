@@ -47,3 +47,149 @@ ephesians 6:11-24
 23 **Peace be to the brethren**, and **love with faith**, from **God the Father and the Lord Jesus Christ**.
 
 24 **/Grace be with all them that love our Lord Jesus Christ in sincerity. Amen./**
+
+
+Here's a carefully curated list of powerful **speeches against oppression, government overreach, and corruption**, spanning cultures, eras, and causes. These speeches have stirred consciences, challenged tyrannies, and sparked reform. Where possible, I've linked to **official transcripts** or reputable sources with video/audio:
+
+---
+
+### 🔥 Historic Speeches
+
+| Speaker                | Title / Context                                     | Link                                                                                                                                       |
+| ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Patrick Henry**      | *“Give me liberty, or give me death!”* (1775)       | [Text (USHistory.org)](https://www.ushistory.org/PatrickHenry/give-me-liberty.htm)                                                         |
+| **Frederick Douglass** | *“What to the Slave is the Fourth of July?”* (1852) | [Text + Audio (NPR)](https://www.npr.org/2020/07/03/887386234/frederick-douglass-s-fourth-of-july-speech-still-resonates)                  |
+| **Sojourner Truth**    | *“Ain’t I a Woman?”* (1851)                         | [Text (National Park Service)](https://www.nps.gov/articles/sojourner-truth.htm)                                                           |
+| **Abraham Lincoln**    | *Gettysburg Address* (1863)                         | [Text + Context (Archives.gov)](https://www.archives.gov/exhibits/american_originals/gettysb.html)                                         |
+| **Winston Churchill**  | *“We Shall Fight on the Beaches”* (1940)            | [Text + Audio (WinstonChurchill.org)](https://winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/) |
+
+---
+
+### ✊ Civil Rights and Resistance
+
+| Speaker                    | Title / Context                                | Link                                                                                                                 |
+| -------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Martin Luther King Jr.** | *“I Have a Dream”* (1963)                      | [Video + Transcript (Archives.gov)](https://www.archives.gov/files/press/exhibits/dream-speech.pdf)                  |
+| **Malcolm X**              | *“The Ballot or the Bullet”* (1964)            | [Text (BlackPast)](https://www.blackpast.org/african-american-history/1964-malcolm-x-ballot-or-bullet/)              |
+| **Nelson Mandela**         | *“I Am Prepared to Die”* (1964)                | [Full Speech (ANC Archives)](https://www.anc1912.org.za/content/i-am-prepared-die-statement-nelson-mandela)          |
+| **Angela Davis**           | *Prison Industrial Complex (various speeches)* | [Compilation (UCLA Humanities)](https://www.humanities.ucla.edu/events/angela-davis-keynote-speech/)                 |
+| **John Lewis**             | *1963 March on Washington Speech*              | [Excerpt + Video (C-SPAN)](https://www.c-span.org/video/?c4463116/user-clip-john-lewis-march-washington-speech-1963) |
+
+---
+
+### 🧭 Anti-Corruption & Government Critique
+
+| Speaker                  | Title / Context                                        | Link                                                                                                                           |
+| ------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Theodore Roosevelt**   | *“The Man with the Muckrake”* (1906)                   | [Text (AmericanRhetoric)](https://www.americanrhetoric.com/speeches/theodorerooseveltmuckrake.htm)                             |
+| **Dwight D. Eisenhower** | *Farewell Address: Military-Industrial Complex* (1961) | [Video + Transcript (Eisenhower Library)](https://www.eisenhowerlibrary.gov/eisenhowers/farewell-address)                      |
+| **Robert F. Kennedy**    | *Remarks on Poverty and Justice* (1968)                | [Text (JFK Library)](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-speeches) |
+| **Ron Paul**             | *“Stop the War on Our Liberties”* (Various)            | [Compilation (RonPaulInstitute)](https://www.ronpaulinstitute.org/)                                                            |
+
+---
+
+### 🌐 Global Speeches Against Tyranny
+
+| Speaker              | Title / Context                                                          | Link                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Václav Havel**     | *New Year's Address to the Nation* (1990, post-Communist Czech Republic) | [Text (Vaclav Havel Library)](https://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=80_aj_clanky.html&typ=HTML) |
+| **Aung San Suu Kyi** | *Freedom from Fear* (1990)                                               | [Text (Nobel Prize)](https://www.nobelprize.org/prizes/peace/1991/kyi/lecture/)                                   |
+| **Jawaharlal Nehru** | *Tryst with Destiny* (1947)                                              | [Text (Indian Parliament)](https://www.india.gov.in/spotlight/tryst-destiny)                                      |
+| **Mario Savio**      | *Machine Speech (Berkeley Free Speech Movement)* (1964)                  | [Video + Transcript (FSM Archives)](https://www.fsm-a.org/stacks/mario/mario_machine.html)                        |
+
+---
+
+### 🎭 Fictional / Cultural Moments Worth Noting
+
+| Speaker              | Title / Context                                                          | Link                                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Charlie Chaplin**  | *“The Great Dictator” Speech* (1940)                                     | [Video + Transcript (CharlieChaplin.com)](https://www.charliechaplin.com/en/synopsis/articles/29-The-Final-Speech-from-The-Great-Dictator-) |
+| **V (Hugo Weaving)** | *“People should not be afraid of their governments…”* (*V for Vendetta*) | [Video + Transcript (IMDb Quotes)](https://www.imdb.com/title/tt0434409/quotes/qt0395730)                                                   |
+
+Here's a carefully curated list of powerful **speeches against oppression, government overreach, and corruption**, spanning cultures, eras, and causes. These speeches have stirred consciences, challenged tyrannies, and sparked reform. Where possible, I've linked to **official transcripts** or reputable sources with video/audio:
+
+---
+
+### 🔥 Historic Speeches
+
+| Speaker                | Title / Context                                     | Link                                                                                                                                       |
+| ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Patrick Henry**      | *“Give me liberty, or give me death!”* (1775)       | [Text (USHistory.org)](https://www.ushistory.org/PatrickHenry/give-me-liberty.htm)                                                         |
+| **Frederick Douglass** | *“What to the Slave is the Fourth of July?”* (1852) | [Text + Audio (NPR)](https://www.npr.org/2020/07/03/887386234/frederick-douglass-s-fourth-of-july-speech-still-resonates)                  |
+| **Sojourner Truth**    | *“Ain’t I a Woman?”* (1851)                         | [Text (National Park Service)](https://www.nps.gov/articles/sojourner-truth.htm)                                                           |
+| **Abraham Lincoln**    | *Gettysburg Address* (1863)                         | [Text + Context (Archives.gov)](https://www.archives.gov/exhibits/american_originals/gettysb.html)                                         |
+| **Winston Churchill**  | *“We Shall Fight on the Beaches”* (1940)            | [Text + Audio (WinstonChurchill.org)](https://winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/) |
+
+---
+
+### ✊ Civil Rights and Resistance
+
+| Speaker                    | Title / Context                                | Link                                                                                                                 |
+| -------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Martin Luther King Jr.** | *“I Have a Dream”* (1963)                      | [Video + Transcript (Archives.gov)](https://www.archives.gov/files/press/exhibits/dream-speech.pdf)                  |
+| **Malcolm X**              | *“The Ballot or the Bullet”* (1964)            | [Text (BlackPast)](https://www.blackpast.org/african-american-history/1964-malcolm-x-ballot-or-bullet/)              |
+| **Nelson Mandela**         | *“I Am Prepared to Die”* (1964)                | [Full Speech (ANC Archives)](https://www.anc1912.org.za/content/i-am-prepared-die-statement-nelson-mandela)          |
+| **Angela Davis**           | *Prison Industrial Complex (various speeches)* | [Compilation (UCLA Humanities)](https://www.humanities.ucla.edu/events/angela-davis-keynote-speech/)                 |
+| **John Lewis**             | *1963 March on Washington Speech*              | [Excerpt + Video (C-SPAN)](https://www.c-span.org/video/?c4463116/user-clip-john-lewis-march-washington-speech-1963) |
+
+---
+
+### 🧭 Anti-Corruption & Government Critique
+
+| Speaker                  | Title / Context                                        | Link                                                                                                                           |
+| ------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Theodore Roosevelt**   | *“The Man with the Muckrake”* (1906)                   | [Text (AmericanRhetoric)](https://www.americanrhetoric.com/speeches/theodorerooseveltmuckrake.htm)                             |
+| **Dwight D. Eisenhower** | *Farewell Address: Military-Industrial Complex* (1961) | [Video + Transcript (Eisenhower Library)](https://www.eisenhowerlibrary.gov/eisenhowers/farewell-address)                      |
+| **Robert F. Kennedy**    | *Remarks on Poverty and Justice* (1968)                | [Text (JFK Library)](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-speeches) |
+| **Ron Paul**             | *“Stop the War on Our Liberties”* (Various)            | [Compilation (RonPaulInstitute)](https://www.ronpaulinstitute.org/)                                                            |
+
+---
+
+### 🌐 Global Speeches Against Tyranny
+
+| Speaker              | Title / Context                                                          | Link                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Václav Havel**     | *New Year's Address to the Nation* (1990, post-Communist Czech Republic) | [Text (Vaclav Havel Library)](https://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=80_aj_clanky.html&typ=HTML) |
+| **Aung San Suu Kyi** | *Freedom from Fear* (1990)                                               | [Text (Nobel Prize)](https://www.nobelprize.org/prizes/peace/1991/kyi/lecture/)                                   |
+| **Jawaharlal Nehru** | *Tryst with Destiny* (1947)                                              | [Text (Indian Parliament)](https://www.india.gov.in/spotlight/tryst-destiny)                                      |
+| **Mario Savio**      | *Machine Speech (Berkeley Free Speech Movement)* (1964)                  | [Video + Transcript (FSM Archives)](https://www.fsm-a.org/stacks/mario/mario_machine.html)                        |
+
+---
+
+### 🎭 Fictional / Cultural Moments Worth Noting
+
+| Speaker              | Title / Context                                                          | Link                                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Charlie Chaplin**  | *“The Great Dictator” Speech* (1940)                                     | [Video + Transcript (CharlieChaplin.com)](https://www.charliechaplin.com/en/synopsis/articles/29-The-Final-Speech-from-The-Great-Dictator-) |
+| **V (Hugo Weaving)** | *“People should not be afraid of their governments…”* (*V for Vendetta*) | [Video + Transcript (IMDb Quotes)](https://www.imdb.com/title/tt0434409/quotes/qt0395730)                                                   |
+
+---
+🧨 Revolutionary and Abolitionist Era
+Speaker	Title / Context	Link
+Frederick Douglass	“What to the Slave is the Fourth of July?” (1852) — direct critique of poverty, slavery, and hypocrisy	Read / Listen (NPR)
+Sojourner Truth	“Ain’t I a Woman?” (1851) — a fierce callout of Black women's labor, neglect, and poverty	Transcript (NPS)
+
+🏚 Depression & Industrial Era
+Speaker	Title / Context	Link
+Mother Jones (Mary Harris Jones)	Speech to Coal Miners and Textile Workers — fiery indictments of corporate exploitation	Excerpt (Khan Academy)
+Eugene V. Debs	1918 Anti-War Speech — jailed for defending poor laborers sent to war	Text (Marxists.org)
+Franklin D. Roosevelt	“The Forgotten Man” (1932) — direct address to America’s unemployed and impoverished	Transcript (American Rhetoric)
+
+🥾 Civil Rights & Poverty
+Speaker	Title / Context	Link
+Martin Luther King Jr.	“I’ve Been to the Mountaintop” (1968) — workers’ rights, Memphis sanitation strike	Text + Audio (King Institute)
+MLK Jr.	“Beyond Vietnam: A Time to Break Silence” (1967) — systemic poverty and militarism	Full Transcript (American Rhetoric)
+Fannie Lou Hamer	“I’m Sick and Tired of Being Sick and Tired” (1964 DNC) — grassroots voice of rural poverty	Text (SNCC Digital Archive)
+
+🏴 Global and Anti-Colonial Voices
+Speaker	Title / Context	Link
+Frantz Fanon	“The Wretched of the Earth” (1961, often quoted speeches on systemic poverty)	Excerpts (Marxists.org)
+Hugo Chávez	UN Speech (2006) — condemnation of neoliberalism's effect on the poor	Text (UN Record)
+Thomas Sankara	Speech on Debt and Imperialism (1987) — speaks as voice of African poor	Transcript (Marxists.org)
+
+🧢 Modern Labor, Austerity, and Anti-Poverty Advocates
+Speaker	Title / Context	Link
+Bernie Sanders	“The American Oligarchy Must Be Broken” (2020) — concentrated wealth vs working class	Video + Transcript (BernieSanders.com)
+Naomi Klein	“Disaster Capitalism and the Poor” (various) — critique of exploitation in crises	Video Compilation (YouTube)
+Cornel West	“We Can’t Save Democracy Without the Poor” (various lectures)	Lecture Clips (YouTube)
+Arundhati Roy	“Come September” (2002) — imperialism, capitalism, and the global poor	Transcript (ratical.org)
