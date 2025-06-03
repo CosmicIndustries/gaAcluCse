@@ -1,6 +1,6 @@
 # gaAcluCse
 cases against corruption
-📢 PRESS RELEASE – FOR IMMEDIATE DISTRIBUTION
+# 📢 PRESS RELEASE – FOR IMMEDIATE DISTRIBUTION
 Subject: Documented Incident of Police Misconduct Under Legal Review – Call for Journalistic and Public Attention
 
 [City, State] – June 2025
