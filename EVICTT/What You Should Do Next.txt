@@ -1,0 +1,146 @@
+
+To help you create the necessary paperwork for your situation, I'll outline the key documents you might need in your effort to encourage your roommate to leave, while staying within the legal bounds of Georgia's landlord-tenant law.
+
+1. Formal Notice to Vacate
+This document formally informs your roommate that they need to leave by a certain date. It should be clear, concise, and unambiguous.
+
+Sample Notice to Vacate
+plaintext
+Copy code
+[Date]
+
+[Roommate's Full Name]  
+[Roommate's Address]  
+[City, State, ZIP]
+
+Subject: Notice to Vacate the Premises
+
+Dear [Roommate's Name],
+
+This letter serves as formal notice that you are required to vacate the premises located at [Your Address] by [Date]. As previously discussed, your stay at this residence will no longer be permitted after this date.
+
+Please ensure that all personal belongings are removed and that the premises are left in the same condition as when you arrived. Kindly return any keys or other property that belongs to me prior to your departure.
+
+If you have any questions or need assistance with the move-out process, please do not hesitate to contact me. However, please be advised that failure to vacate the premises by the stated date may result in further legal action.
+
+Sincerely,  
+[Your Full Name]  
+[Your Contact Information]
+2. Documenting the Agreement
+If you had a verbal agreement with your roommate, it’s useful to document the terms of your arrangement in writing, especially if you are acting in good faith and trying to avoid litigation.
+
+Sample Roommate Agreement (if applicable)
+This is optional, but it can help clarify expectations and responsibilities.
+
+plaintext
+Copy code
+ROOMMATE AGREEMENT
+
+This agreement is made on [Date], by and between:
+
+[Your Full Name] ("Primary Tenant")  
+[Roommate's Full Name] ("Roommate")  
+
+Premises:  
+[Property Address]  
+
+Terms of Agreement:  
+1. Rent and Utility Responsibilities:  
+   - The total rent is $[amount] per month.  
+   - Each party is responsible for [specify percentage] of the rent and [list utilities, e.g., electricity, internet].
+
+2. Duration of Stay:  
+   - The agreement is effective from [start date] until [end date].  
+   - The roommate is required to vacate the premises by [date] unless otherwise agreed.
+
+3. House Rules:  
+   - [Include any specific rules regarding shared spaces, cleanliness, quiet hours, etc.]
+
+4. Termination of Agreement:  
+   - The primary tenant may terminate this agreement by providing written notice [x] days in advance.
+
+Signed:  
+[Your Name]  
+[Roommate's Name]  
+Date: [Date]
+3. Proof of Notice (If Dispossessory Action Becomes Necessary)
+If your roommate refuses to leave, you’ll need to demonstrate that you've made a formal effort to have them vacate. Keep copies of all communications (letters, texts, emails), as well as proof of delivery (such as a receipt for certified mail or a witness statement).
+
+Sample Proof of Notice Receipt (for Certified Mail)
+plaintext
+Copy code
+Certified Mail Receipt
+
+Date of Notice Sent: [Date]  
+Recipient's Name: [Roommate's Full Name]  
+Mailing Address: [Roommate's Address]  
+
+Certified Mail Tracking Number: [Tracking Number]  
+Date of Delivery: [Date]  
+
+This is to confirm that a written Notice to Vacate was sent via certified mail to [Roommate's Name] on [Date]. The notice required vacating the premises located at [Address] by [Date].
+
+[Your Full Name]  
+[Your Contact Information]  
+4. Sample Cash for Keys Agreement (Optional)
+If you decide to offer an incentive, such as cash for keys, here’s a document you can use:
+
+Sample Cash for Keys Agreement
+plaintext
+Copy code
+CASH FOR KEYS AGREEMENT
+
+This agreement is made on [Date], by and between:
+
+[Your Full Name] ("Primary Tenant")  
+[Roommate's Full Name] ("Roommate")  
+
+Premises:  
+[Property Address]  
+
+Terms of Agreement:  
+1. The Primary Tenant agrees to provide Roommate with a sum of $[Amount] upon the following conditions:
+   - Roommate vacates the premises by [Date].  
+   - Roommate returns all keys, access cards, and any other property belonging to the Primary Tenant.  
+   - Roommate leaves the premises in good condition, free of personal belongings.
+
+2. The Primary Tenant will provide the agreed amount of $[Amount] to the Roommate after verification that the premises have been vacated and all conditions are met.
+
+Signed:  
+[Your Name]  
+[Roommate's Name]  
+Date: [Date]
+5. Mediation Agreement (Optional)
+If you want to try mediation before taking legal steps, this agreement can be used to outline the mediation process.
+
+Sample Mediation Agreement
+plaintext
+Copy code
+MEDIATION AGREEMENT
+
+This agreement is made on [Date], by and between:
+
+[Your Full Name] ("Primary Tenant")  
+[Roommate's Full Name] ("Roommate")  
+
+Purpose of Mediation:  
+Both parties agree to meet with a neutral mediator to resolve the dispute regarding [Roommate's Name] vacating the premises at [Property Address].
+
+Terms of Mediation:  
+1. The parties agree to attend a mediation session with [Mediator's Name] on [Date] at [Time] at [Location].
+2. Both parties agree to participate in good faith and work towards a resolution that is mutually beneficial.
+3. The parties agree that the outcome of the mediation will be binding on both sides.
+
+Signed:  
+[Your Name]  
+[Roommate's Name]  
+Date: [Date]
+What You Should Do Next
+Distribute the Notices:
+Send the Notice to Vacate either by certified mail or hand-delivered (with a witness if possible).
+
+Keep Records:
+Retain copies of all correspondence, proof of delivery, and any agreements signed.
+
+If Mediation Fails:
+If your roommate refuses to leave or there are further disputes, you can begin the legal process by filing a Dispossessory Warrant in Glynn County Magistrate Court.

@@ -1,0 +1,7 @@
+Paid:  1460
+Total unpaid: 3040
+Avg.: 506.666
+Total acrewed: 4500
+ttl Avg: 500
+weekly: 150
+monthly: 600
