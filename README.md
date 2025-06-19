@@ -24,6 +24,7 @@ Inquiries from newsrooms, legal watchdogs, and public advocates are welcomed.
   
   https://theirnames.org/
 
+ https://saytheirnamesmonuments.com/
 
 ephesians 6:11-24
 11 Put on the whole armour of God, that ye may be able to **stand against the wiles of the devil.**
