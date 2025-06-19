@@ -18,14 +18,15 @@ Inquiries from newsrooms, legal watchdogs, and public advocates are welcomed.
 
                                                                                                                                             (https://73.nu/afh)
 
-   
+   ---
    https://interactive.aljazeera.com/aje/2020/know-their-names/index.html
+---
   https://www.newsweek.com/full-list-229-black-people-killed-police-since-george-floyds-murder-1594477
-  
+  ----
   https://theirnames.org/
-
+----
  https://saytheirnamesmonuments.com/
-
+---
 ephesians 6:11-24
 11 Put on the whole armour of God, that ye may be able to **stand against the wiles of the devil.**
 
@@ -224,7 +225,7 @@ The voices range from abolitionists, early labor activists, civil rights leaders
 The rhetorical power comes from vivid personal testimony, moral indictment, and a call to collective action.
 
 
-
+---
 
 Their Names
 mission statement
