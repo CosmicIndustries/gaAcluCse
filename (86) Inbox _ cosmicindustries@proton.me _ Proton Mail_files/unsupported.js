@@ -1,0 +1,27 @@
+(self.webpackChunkproton_mail=self.webpackChunkproton_mail||[]).push([[4768],{17231:(e,t,o)=>{"use strict";e.exports=o.p+"assets/static/error-generic.daeca444fc39d92b060b.svg"},41514:(e,t,o)=>{"use strict";o.d(t,{y:()=>r});var r=function(e){return e[e.Unsupported=0]="Unsupported",e[e.Supported=1]="Supported",e[e.Other=-1]="Other",e}({})},46868:(e,t,o)=>{("undefined"!=typeof window?window:void 0!==o.g?o.g:"undefined"!=typeof self?self:{}).SENTRY_RELEASE={id:"5.0.77.5"}},48015:(e,t,o)=>{"use strict";var r=o(17231),s=o(61395),n=o(41514),i=function(){var e=-1!==(document.location.origin||document.location.href).indexOf("protonvpn"),t=document.location.hostname,o=e?"https://protonvpn.com/support/browsers-supported/":"https://".concat(t.slice(t.indexOf(".")+1),"/support/recommended-browsers");document.body.innerHTML=`
+        <div class='h-full flex items-center pb-14 overflow-auto'>
+            <div class='m-auto text-center max-w-custom' style='--max-w-custom: 30em'>
+                <h1 class='text-bold text-4xl'>Unsupported browser</h1>
+                <p>
+                    You are using an unsupported browser. Please update it to the latest version or use a different browser.
+                </p>
+                <a class='primary-link bold' target='_blank' rel='noopener noreferrer' href='`.concat(o,`'>More info</a>
+                <div class='mt-8'>
+                    <img src='`).concat(s,`' alt='Unsupported browser'/>
+                </div>
+            </div>
+        </div>
+    `),document.title="Unsupported browser"},d=function(){var e;document.body.innerHTML=`
+        <div class='h-full flex items-center pb-14 overflow-auto'>
+            <div class='m-auto text-center max-w-custom' style='--max-w-custom: 30em'>
+                <div class='mb-8'>
+                    <img src='`.concat(r,`' alt='Error'/>
+                </div>
+                <h1 class='text-bold text-4xl'>Oops, something went wrong</h1>
+                <p>
+                    Please <button id='refresh' class='link align-baseline'>refresh the page</button> or try again later.
+                </p>
+            </div>
+        </div>
+    `),null==(e=document.querySelector("#refresh"))||e.addEventListener("click",function(){window.location.reload()}),document.title="Oops, something went wrong"};window.setTimeout(function(){window.protonSupportedBrowser===n.y.Unsupported?i():(window.protonSupportedBrowser===n.y.Other||void 0===window.protonSupportedBrowser)&&d()},33)},61395:(e,t,o)=>{"use strict";e.exports=o.p+"assets/static/unsupported-browser.0e18e3c7785811fb5d8c.svg"}},e=>{var t=t=>e(e.s=t);t(46868),t(48015)}]);
+//# sourceMappingURL=unsupported.9bb58445.js.map
