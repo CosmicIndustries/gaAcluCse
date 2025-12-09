@@ -1,23 +1,29 @@
-PRESS RELEASE – FOR IMMEDIATE RELEASE
+## PRESS RELEASE – FOR IMMEDIATE RELEASE
 
-Subject: Documented Incident of Police Misconduct Under Legal Review – Call for Journalistic and Public Attention
-[City, Georgia] – June 2025
+**Subject: Documented Incident of Police Misconduct Under Legal Review – Call for Journalistic and Public Attention
+[City, Georgia] – June 2025**
 
-A 2020 case involving an incident of police misconduct, currently under legal review, has raised urgent concerns regarding civil rights, use of force, and judicial transparency in Southeast Georgia.
-The victim of the incident—whose identity is protected for legal reasons—has compiled extensive legal documentation and media supporting their claim of unlawful arrest and excessive force by a state officer. This material is being made available to journalists and human rights organizations.
+> A 2020 case involving an incident of police misconduct, currently under legal review, has raised urgent concerns regarding civil rights,
+> use of force, 
+> and judicial transparency in Southeast Georgia. 
+> 
+> The victim of the incident—whose identity is protected for legal reasons—has compiled extensive legal documentation and media
+> supporting their claim of unlawful arrest and excessive force by a state officer. 
+> This material is being made available to journalists
+> and human rights organizations.
+> 
+> The individual is self represented (pro-se), and outreach efforts are underway to secure independent reporting and oversight.
+> 
+> Available for Review:
+>     • Legal filings, audio/video, affidavits
+>     • Expert opinions on legal violations
+>     • Redacted incident reports and supporting documentation
+> 
+> Inquiries from newsrooms, legal watchdogs, and public advocates are
+> welcomed.
 
-The individual is represented by legal counsel, and outreach efforts are underway to secure independent reporting and oversight.
 
-Available for Review:
-    • Legal filings, audio/video, affidavits
-    • Expert opinions on legal violations
-    • Redacted incident reports and supporting documentation
-
-Inquiries from newsrooms, legal watchdogs, and public advocates are welcomed.
-
-
-                                                                                                                                            (https://73.nu/afh)
-
+                                                                                                                                            
    ---
    https://interactive.aljazeera.com/aje/2020/know-their-names/index.html
 ---
@@ -114,7 +120,8 @@ Here's a carefully curated list of powerful **speeches against oppression, gover
 | **Charlie Chaplin**  | *“The Great Dictator” Speech* (1940)                                     | [Video + Transcript (CharlieChaplin.com)](https://www.charliechaplin.com/en/synopsis/articles/29-The-Final-Speech-from-The-Great-Dictator-) |
 | **V (Hugo Weaving)** | *“People should not be afraid of their governments…”* (*V for Vendetta*) | [Video + Transcript (IMDb Quotes)](https://www.imdb.com/title/tt0434409/quotes/qt0395730)                                                   |
 
-Here's a carefully curated list of powerful **speeches against oppression, government overreach, and corruption**, spanning cultures, eras, and causes. These speeches have stirred consciences, challenged tyrannies, and sparked reform. Where possible, I've linked to **official transcripts** or reputable sources with video/audio:
+Here's a carefully curated list of powerful **speeches against oppression, government overreach, and corruption**, spanning cultures, eras, and causes. These speeches have stirred consciences, challenged tyrannies, and sparked reform. 
+Where possible, I've linked to **official transcripts** or reputable sources with video/audio:
 
 ---
 
@@ -172,35 +179,62 @@ Here's a carefully curated list of powerful **speeches against oppression, gover
 | **V (Hugo Weaving)** | *“People should not be afraid of their governments…”* (*V for Vendetta*) | [Video + Transcript (IMDb Quotes)](https://www.imdb.com/title/tt0434409/quotes/qt0395730)                                                   |
 
 ---
-🧨 Revolutionary and Abolitionist Era
-Speaker	Title / Context	Link
-Frederick Douglass	“What to the Slave is the Fourth of July?” (1852) — direct critique of poverty, slavery, and hypocrisy	Read / Listen (NPR)
-Sojourner Truth	“Ain’t I a Woman?” (1851) — a fierce callout of Black women's labor, neglect, and poverty	Transcript (NPS)
 
-🏚 Depression & Industrial Era
-Speaker	Title / Context	Link
-Mother Jones (Mary Harris Jones)	Speech to Coal Miners and Textile Workers — fiery indictments of corporate exploitation	Excerpt (Khan Academy)
-Eugene V. Debs	1918 Anti-War Speech — jailed for defending poor laborers sent to war	Text (Marxists.org)
-Franklin D. Roosevelt	“The Forgotten Man” (1932) — direct address to America’s unemployed and impoverished	Transcript (American Rhetoric)
-
-🥾 Civil Rights & Poverty
-Speaker	Title / Context	Link
-Martin Luther King Jr.	“I’ve Been to the Mountaintop” (1968) — workers’ rights, Memphis sanitation strike	Text + Audio (King Institute)
-MLK Jr.	“Beyond Vietnam: A Time to Break Silence” (1967) — systemic poverty and militarism	Full Transcript (American Rhetoric)
-Fannie Lou Hamer	“I’m Sick and Tired of Being Sick and Tired” (1964 DNC) — grassroots voice of rural poverty	Text (SNCC Digital Archive)
-
-🏴 Global and Anti-Colonial Voices
-Speaker	Title / Context	Link
-Frantz Fanon	“The Wretched of the Earth” (1961, often quoted speeches on systemic poverty)	Excerpts (Marxists.org)
-Hugo Chávez	UN Speech (2006) — condemnation of neoliberalism's effect on the poor	Text (UN Record)
-Thomas Sankara	Speech on Debt and Imperialism (1987) — speaks as voice of African poor	Transcript (Marxists.org)
-
-🧢 Modern Labor, Austerity, and Anti-Poverty Advocates
-Speaker	Title / Context	Link
-Bernie Sanders	“The American Oligarchy Must Be Broken” (2020) — concentrated wealth vs working class	Video + Transcript (BernieSanders.com)
-Naomi Klein	“Disaster Capitalism and the Poor” (various) — critique of exploitation in crises	Video Compilation (YouTube)
-Cornel West	“We Can’t Save Democracy Without the Poor” (various lectures)	Lecture Clips (YouTube)
-Arundhati Roy	“Come September” (2002) — imperialism, capitalism, and the global poor	Transcript (ratical.org)
+> 🧨 Revolutionary and Abolitionist Era 
+>Speaker	Title / Context	Link
+>
+>
+> Frederick Douglass	“What to the Slave is the Fourth of July?” (1852) — direct critique of poverty, slavery, and hypocrisy	Read / Listen (NPR)
+>
+> Sojourner Truth	“Ain’t I a Woman?” (1851) — a fierce callout of Black women's labor, neglect, and poverty	Transcript (NPS)
+> 
+> 🏚 Depression & Industrial Era 
+>Speaker	Title / Context	Link 
+>
+>
+>Mother Jones (Mary Harris Jones)	Speech to Coal Miners and Textile Workers — fiery indictments of corporate exploitation	Excerpt (Khan Academy)
+>
+> Eugene V. Debs	1918 Anti-War Speech — jailed for defending poor laborers sent to war	Text (Marxists.org) 
+>
+> Franklin D. Roosevelt	“The Forgotten Man” (1932) — direct address to America’s unemployed and impoverished	Transcript (American Rhetoric)
+> 
+> 🥾 Civil Rights & Poverty 
+> Speaker	Title / Context	Link 
+>
+>
+>Martin Luther King Jr.	“I’ve Been to the Mountaintop” (1968) — workers’ rights, Memphis sanitation strike	
+>Text + Audio (King Institute) 
+>
+>MLK  Jr.	“Beyond Vietnam: A Time to Break Silence” (1967) — systemic poverty and militarism	
+>Full Transcript (American Rhetoric)
+>
+>
+> Fannie Lou Hamer	“I’m Sick and Tired of Being Sick and Tired” (1964 DNC) — grassroots voice of rural poverty	
+> Text (SNCC Digital Archive)
+> 
+> 🏴 Global and Anti-Colonial Voices
+>  Speaker	Title / Context	Link
+>   
+>
+>  Frantz Fanon	“The Wretched of the Earth” (1961, often quoted speeches on systemic poverty)	Excerpts (Marxists.org) 
+>
+>  Hugo Chávez	UN Speech (2006) — condemnation of neoliberalism's effect on the poor	Text (UN Record)
+>
+> Thomas Sankara	Speech on Debt and Imperialism (1987) — speaks as voice of African poor	Transcript (Marxists.org)
+> 
+> 🧢 Modern Labor, Austerity, and Anti-Poverty Advocates Speaker	Title / Context	Link 
+>
+>
+>Bernie Sanders	“The American Oligarchy Must Be Broken”
+> (2020) — concentrated wealth vs working class	
+Video + Transcript (BernieSanders.com) 
+>
+>Naomi Klein	“Disaster Capitalism and the Poor” (various) — critique of exploitation in crises	Video Compilation (YouTube)
+> 
+> Cornel West	“We Can’t Save Democracy Without the Poor”
+> (various lectures)	Lecture Clips (YouTube)
+>  
+> Arundhati Roy	“Come September” (2002) — imperialism, capitalism, and the global poor	Transcript (ratical.org)
 
 
 | Speaker                | Title / Context                              | Year        | Link                                                                                                                                         | Notable Excerpt                                                                                                                                                                                                               |
@@ -218,11 +252,15 @@ Arundhati Roy	“Come September” (2002) — imperialism, capitalism, and the g
 
 
 Summary and Reflection
-These speeches share a common thread: the spotlight on systemic failures that condemn millions to poverty, neglect, and injustice.
+These speeches share a common thread: 
+the spotlight on systemic failures
+ that condemn millions to poverty, neglect, and injustice.
 
-The voices range from abolitionists, early labor activists, civil rights leaders, to modern-day progressives and international figures.
+The voices range from abolitionists, early labor activists, 
+civil rights leaders, to modern-day progressives and international figures.
 
-The rhetorical power comes from vivid personal testimony, moral indictment, and a call to collective action.
+The rhetorical power comes from vivid personal testimony, moral indictment, 
+and a call to collective action.
 
 
 ---
@@ -273,7 +311,279 @@ Vincent ". O. | James M. | John C.  | Kathy P. | Name withheld by police | Dwayn
 
 2010
 
-Demetria D.  | Kelvin D.  | Willie H.  | Rodney B. | Lynn W.  | Darryl M.  | James P. ". M. | Reggie D. P. | Randall W. ". L. | Jeffery W. E. | Patrick G. J.  | John T. M. | David D. B. | Gwendolyn K. | Vinh ". V. B. | Kenny W. G.  | Clyde C. B. I. | David T. C.  | Phillip P. M.  | Diego M. G. | Khalifa T. K. | Jean D. E. | John H. J. | Mark S. Y. J.  | Jose S. J.  | Dominic C.  | Marlo S. Y. G. | Ephraim W. | Kevin W.  | Daniel P. | Michael C. E. | Jeffrey M. Y.  | Name withheld by police | Elisha C.  | Rasmee M. | Maurice E. P.  | Terry N. T.  | Charles K. G.  | Payton R. I.  | Robert R. J.  | Zachary B.  | Jack M. S. | Christopher L. K.  | Michael D. K. | Dionne A. B. | Obataiye E. | Dawud C. | Yahree J. C. | James E. R.  | Ryan J. D.  | Joseph M. B. | Jose O. C. | Ray B. | Name withheld by police  | Name withheld by police  | Name withheld by police  | Mohamed Z. | Fatou-Mata N.  | James C. S. | Jose R. L. | Michael T. B. | Anthony M. C.  | Darryel D. F. | Brandon E. C.  | Ciara C. L.  | Brandon F. | Patrick E. G.  | Holli G.  | Name withheld by police  | Sarah K. M. G.  | Elmer A. P. | Stephen A. L. | Jerry B. | Elaine J. V.  | Shaun V.  | Tyler W. | Heather B. P. | Bryan S. W. | Justin E. W. | Linel L. | Chad D. M. | Gary H. J.  | Douglas Z.  | James F.  | Anthony J. | Guy J. J. J. | Jesse E. W. | Tynisha J. T. | Roman G. | Andres R.  | Kyle L. K. H. | Eugene E. E. | James S.  | Cory D. J.  | Aaron R. M.  | Donald T. P. | Nery A. L. | Name withheld by police  | Cory H. | Darius C.  | Edward M.  | Bobby F.  | Raymond F. A. | James A. P.  | Michael D. W.  | Leon M. J. | John W. S. J.  | Stephen G. O. | Joe W.  | Naaman P.  | Akeron T.  | Amanda J. T.  | Andre M.  | Ontario ". B.  | Jeremy A. G. | Robert F.  | Brandon D. | Clayton E. J.  | Jarrett B.  | Glenn S. G. | Michael A. F.  | Tavan C. | Derrick B. | Haley W. | Deandre B.  | Lamont W.  | Brandon K. I.  | Jesus T. M. | Jeannia L. D.  | Harold M. S. | William H. R.  | Larry T. S.  | Nathan F. | Samuel H. | Robert S. L. | Gary G.  | Daniel G. A.  | Richard S. P.  | Gabriel T. F. | Name withheld by police | Willie L. W.  | Mike J. B.  | Name withheld by police | Blaine T. M.  | Gavin M. T.  | Genevieve C. ". C. | Alexander A.  | Rodney E. G.  | Derek B.  | Joel A. C. | Xavier F. | Heather M. C. | Sean S. M.  | Name withheld by police | Denevious T.  | Terrance G. | Craig B. | Ruben R.  | Vu H. Q. | Carlos A. G. | Raymond M. H. | Karl S.  | Lon E. P.  | Thomas S.  | Stephen ". S. J. | Steven M. C. | Armando L. | Rick A. G.  | Michael S.  | Curtis S.  | Benjamin H. B. | Anthony B.  | Kelly J. B. | Wesley G. P. J.  | Victor M. A.  | James R. B.  | Sergio G. | Jaime D. D. | Sherddrick C. | Robert S.  | Thomas C. B.  | Ethan A. C.  | Brian C. B.  | John C. W. J.  | Derek L.  | Robert ". H.  | Todd A. B. J.  | Shane M. H. | Christopher D. O. | Arushary L. G. | Robert T. | Derrick J. | Benjamin H.  | Alexandra N. N.  | Tony M.  | Johnny V.  | Jerome D. | Jahind D.  | Rajon C. | Jeffrey E. B.  | Justin M. | Robert A. N. J. | Thaddeus B. B. | Hugh B. S. a. | Dana A. R.  | Gibran F. | Paulo B. | Kenneth M. H. | Connectis G. | Eugene L. A.  | Billie N. L. | Nathaniel W. H. | Charles ". C. | Mark D. S. | Mark A.  | Joshua M.  | Howard H. H.  | Matthew K.  | Sullivan G.  | Hugo N. C. | Name withheld by police  | Name withheld by police | Alexei S.  | Nicodemus S.  | Jeanine Y. H. | Kenneth L. W. | Timothy C.  | Daniel H. R.  | Tobias A. M.  | Samuel T. C. I. | Henry D.  | James L. | Donald D.  | Zachary J. R.  | Mark C.  | Michael N. | Acrifa S.  | Michael A. V. | William L. K. | Douglas M. O. | Stephen ". B. S.  | David S. | Name withheld by police | Shaiheem D. G.  | Nelson G. H. I. | Joseph A. B. | Quentin D. D.  | Larry A. B. | Thomas S. | Marques R. B.  | Roger D. P. I. | Cesar S.  | James R. | Amir M. | Charles T. P.  | Anthony W.  | Richard R. | Jose E. | Richard S. C.  | Pearce C.  | Troy H.  | Brian J. A. | Antonio M. R. | David P. B. | Joseph E. M.  | Daniel G. | Elizabeth A. S. | Name withheld by police | Danroy H. J.  | Dexter L.  | Christopher S. K. | Randall E. N. | David M. S.  | Karreem A. A. | Manuel G. L. | Billy J. C. | Leslie M. M. | Anthony W. T. | Michael A. A.  | Manuel P. C.  | Wardell J. J. | Eugene J. W.  | Nancy M. R. | Earl W.  | Gerald B. I. | John ". M.  | Ryan M. B. | Johnathan C. | Richard J. R. | Albert J. V. I. | James D.  | Rashaad B.  | Christopher B. R. | Patrick J.  | Brandon R. D.  | Douglas W.  | Brian D.  | Rod F.  | Larry D. K.  | Juan M. J.  | Daniel F. R. | Reginald L.  | Javon R.  | Tony C. | Calen K.  | Douglas J. W. | Emmanuel P. | Sean B. M. | Marcus L. H.  | Letha C. A.  | Asoi V. | Devin R. C. | Gabriel C.  | Selwyn C. L.  | Danny W. J.  | Alfred M. S. | Cole R. R.  | Anna B.  | Jamail J. A. | Eric P. | Jeff L. | Shawn M.  | Grace S. S. | Sean S.  | Valerie S.  | April S. | Name withheld by police | Aaron L. J.  | Jerome ". W.  | John A. J. | Scott K. | Jack S. | Mark C. | Frank W. H.  | Name withheld by police  | Michael L.  | LePear L. T.  | Michael L. R. | Patrick A. F.  | Robert H. R. | Kelsey L. M. | Actavia W.  | Lonnie G. C. S.  | Matthew L. M. | Dwight D. J. | Francisco O.  | Rita E.  | Tyree Q. | Marcus R.  | James R. D. S.  | Daniel S.  | Justin R. B. P. | Olivier Y. C.  | Jose A. S.  | Jesus J. ". H. | Frederick W. | George L. | Joseph F. K.  | Harold W. S. J.  | William ". A. L.  | Randall B.  | David C. S. | Ruslan Z.  | Gregory R. ". D.  | Calvin L. T. | Mark D.  | Todd E. B.  | Gary L. G.  | Jose D. J. V. | Vincente J. R.  | Name withheld by police  | Bertrand M. | William M. B.  | Dan K.  | Eric K. B. | David T. J.  | David D. P.  | Freddie L. L. | Derek S. P. | Jose L. M. | Brent B. | Franklin ". B. | Trevor D. S. | Abraham A. D. | Manuel S.  | Joe T. M. | Larry V. R. | David S. B. | Richard M. V. | Christine S. | Armando A.  | Kamyn J. W. B.  | Roderick W. V. | William K. | Nikkolas W. K. L.  | Name withheld by police  | Henrietta S. | Kevin B. P.  | David T.  | Francisco M.  | Manuel J. a. M.  | Adam C. | David R. | Michael L. C. | Gary L. S.  | Richard W. S.  | Bruce C. J. | James L. K. | Joshua F. | Amin Y. R.  | Lance D. | Michelle O. | Roxanne R.  | Adrian R. G.  | Jason M. M. | King R. P. H.  | Efren V.  | David C. Y. | Edward C. Z. S. | Thomas R. C.  | Estela M. | John T. W.  | Kenneth J. W.  | Brian S. C. | Anthony R. S.  | Michael B. S.  | Billy R. C. | Leonel M. | Bjorn R.  | Tim D. | Stuart A. W.  | Robert B. M. | Brandon B. | Briana O. | Christopher G. | Charles M.  | Vincent B. | Roel E. C.  | Name withheld by police | Kenneth M. | Mark H.  | Wayne S. C.  | Eduardo L.  | Scott A. W. | Garfield R. K. | Clayton J. W. J. | Damon W. | James W. K. | Matthew J. G. | Caren G. A.  | Alonzo A.  | Julian M.  | Charles P. ". S. | Joseph T. | Casey L. D.  | Tarnorris T. G.  | Clarence R. | Brittany J.  | Stanley J. J.  | Steven M. I.  | James R. S.  | Ramiz O.  | Sean C. | Adam D.  | Dalerico S. V. | David L. | Ricky H.  | Patrick G. S. | Mariano L. | Enrique C.  | Edward C. S.  | Kenyatta B. J. | Tex E. T.  | Ariel E. R. | James E. S. I.  | Ruben A. F. J.  | Edgar J. A. | James A. T. B. | Michael F.  | Philip J. P.  | Tony W. B. | Maurell M. | Thomas C. W. | Carmen J. P. | Trevor L. H.  | Terry G.  | Gibson J. B. | Vandaro D. C. | Laurie R. R.  | Jordan D. | Samuel M. R.  | Joell L. J. | Donald W. ". R.  | Joseph D. H.  | Itali A. | Arthur M. | Troy A. G.  | Rickie D. J.  | Name withheld by police | David C. U.  | Dennis L. C.  | Andrew T. | Charles A. H.  | Luis S.  | Name withheld by police  | Robert G.  | Ryan B. J. | Eric W.  | Raul P. J.  | Joseph A. ". C. | Diego O. | Charles B.  | Keith M. R.  | Juan S. C. | Gary D. C. | Walter E. J.  | Robert J. C.  | Daniel R. | Dennis C. S.  | Daniel M. | Alfred R. V. | Luther C. | Charles C. K.  | John E. D.  | Sandra S. C.  | Gary W. C.  | Peter C. R. | Harold ". B. | Name withheld by police | John C. C.  | Raul B. | Larry S. B. J.  | Roger T. | Michael W. L. | Markiese R. | William T. S. | Joann B.  | Trenton J. S. | Isaiah S. B.  | Len F. | Angel H. F. | James M. W.  | Corey H.  | Douglas S. I.  | Ronald L. R.  | Adeliano S.  | Richard G. S. J.  | Queonna Z. E. | Haines E. H. | Donnell W.  | Justin C. H.  | George ". M. F. | Jermaine W. | Gregg A. K.  | Matthew J. N. | Carol K. | Erik D. S.  | James E. R. J. | Josh M. | Clifford T. R.  | Ashley W.  | Alberto A.  | Naquan J.  | Robert E.  | Pedro S. C. | Todd D. G.  | Michael J. B.  | Jose P. S.  | Logan H. | Tabatha M. H.  | Brian C. J. | Jason K. | Robert G.  | Scott D. S.  | Jimmy E. | John C. C.  | Rodney E. H. | Edward G. S.  | Monty K. | Mark W. | Brandon J.  | Arturo P. B. | Tyron L. S.  | Fred C.  | Dennis H. | Name withheld by police | DeFarra ". G. | Gary P. B.  | Luciano R.  | Name withheld by police  | Brandon D. H. | Jerome G. | Seth P. | John C. C.  | Rashaan G. | Jataynun T. F. | Clifton A. S. | Cedric D. H. | Lance G. ". M. | Justin J. L.  | Thomas L. ". L.  | Whit M.  | Leyda M.  | Dennis D. J.  | Anibal R. | John C. J.  | Jamarr M. ". ".  | Arika L. H. | Bryan P. J.  | Arthur W. | Allen M.  | Erik S.  | Carlos F. | Javier R.  | Roman O. P.  | Traveon J. A.  | Marvin B. | William O.  | Allison S.  | Jose C. R. | William H. J. | Phyllis O.  | Joseph B. | Jason T. B.  | James F. P.  | Joe A. G.  | Mayceo O. D. | Paul S. S. | Jeffrey L. C.  | Kelly D. S. | Gerald H. ". K.  | Brian P.  | Decarlos M.  | Dennis J. J. | Damon L. F. | Kevin A.  | Edmund ". G.  | DeMarlo H. | Robert J. R.  | Brooks J. A.  | Bianca W.  | Richard B. N. | George L. | Travis J. B. | Moses J. M. | Lextrell W. | Edward S. W.  | Alan B. | David L. W. | Richard R. I. | Jose L. M. C.  | Julian S. C.  | Charlie C. | William B. B. | Andrew C. | Diego C.  | Andre M. M. | Choung V. N. | Robert M. W.  | Arturo E. | Ernest R. I. | Scott A. B. | Shaun M. B.  | Kinzy L. T.  | Marquez T. B.  | Normane B.  | Guy S. E. J.  | Matthew T.  | Marcus M. W.  | Marvin F.  | Zachary C. | Laszlo J. L.  | Raymond B. | Vaughn S. | Jahad P.  | Mary C. G.  | Daniel S. | Abel B. | Richard C.  | Robert E. B. | Jamyrin P. | David O. B. J.  | Thuan B. P. | Marko A. P.  | Pascual A. | Bryan G.  | Domingo B.  | Marina B.  | Daniel G. | Anthony C. R.  | Max J. G.  | Jesus B. V. | Robert W. K. | Caroline M. S. | Kayre G. S.  | Walter W.  | Diosdado P.  | William R. B. | Veronica H. | Dexter L. | Matthew S. C. | John N. E.  | Michael H. P.  | Michael T. W.  | Thomas P. M. | Julian C. | Jose A. J. | William O.  | Juan M. | Curtis R. | Donnie J. L.  | Trevon C. | Thomas E. H. J.  | Carroll J. E.  | Montie ". M.  | Anthony R. A. | Kayla W. | Chris H.  | Andres P. P. | Kenneth A. S. R. | Terrell B. S. | Carl W. B.  | Brian C. | Anthony A. | Ezra L. R.  | Terrell L. H.  | Reno V.  | Richard M. K.  | Keith N. | Christina Y. M.  | Michael W. B. | Benjamin J. D. | Kelly D.  | Sergio A. H. G. | Name withheld by police  | James E. F. J.  | Timothy D. G.  | Stephen C. H. | William C.  | James F. | Tasha B. | Dwayne M. W.  | Audy F.  | Thomas M. H. | Tyrone B.  | Gregory T. ". B.  | Robert K. B. | Billy R. S. J. | Benjamin S. T.  | Brian P. W. | Alfonso L. ". M.  | Millis E. F. | Jose J. G. | Brian N. E.  | Albert L. J. | Bernard J. K.  | Devin W. | Richard A. N.  | Jessie N. C.  | Joseph R.  | Jose A. M. | Deangelo E. J. F.  | Michael R. ". W.  | Anastasio H.  | Anthony B. B. | Carl D. J.  | Belinda K. B. | Abraham D. | Oscar M. | Jose F.  | Michael J. C.  | Randall D. K.  | Alfred P.  | Christ C. C.  | Jim H.  | Leon J.  | Ashword C. C. | Scott A. M.  | Matthew D. I.  | Andrew C.  | Timothy C. | Efrain C.  | Agim B.  | Reginald J. | John L. F.  | Sarah B. | John J. S. I.  | Keith J. M. | Victoria H. R. | Israel I. C. | Name withheld by police | Name withheld by police | Nathan M. | Joseph T. K. | Jerry R. K. J. | Richard R. W.  | Brian F. | Ivan C.  | Andrew M.  | Ronald J. B. | Timothy C. | Miriam ". O.  | Shon B.  | Anthony H.  | Fernando M. | Name withheld by police  | Garrick H.  | Craig S. | Deborah H.  | Jose V. | Aiyana M. S. J. | Kenneth B. Y. S.  | Brian E. S. | Christopher J. G. | Abel A. H.  | Sukeba ". J.  | Melvin W.  | Robert A. A.  | Sue M.  | Monty E. M. | Vincent M. Y.  | Name withheld by police  | John P. D. | William K. W.  | Earl S.  | Richard A. W. | Keaton D. O.  | Wayne F. P.  | Joshua J. W.  | Darryl E.  | Donovan M.  | Durward R. U.  | Audrecas D. | Adrian D. P. | Beth Q. J. | Terry L. B.  | Anthony K. | Matthew S. H. | Ronald E. | Isai V. | Rasheed C.  | Genaro M. | Phillip M. B.  | Rasheem ". B.  | Phillip V. W. J.  | James L. S.  | John P. H. | Jaesun I. | Gary S. G.  | Burnette T. | Warren A. W. | Keith B.  | Jason M. | Carlos S. | Howard W. | Christopher C. | Dumone D. S.  | Jason J. J.  | Jeanette A.  | Favian M. | James D. G. | Adil J.  | William P. S. J. | Adam W. | Donald B. M. | Rickey W. | Greg T. J. | Dominique S.  | Eddie L. J.  | Elbert D. S.  | Jessie J. J.  | Bradford S. | Johnny H.  | Donald H.  | Lejoy G.  | Joshua M. B.  | Joseph J. | Eli T.  | Elias E. S.  | Thomas U. J. | Izael J.  | David M. M. J. | Francesca J. | Amanda T. | Javier L. | John R. S. | Martin C. | Arnold A. | Seth R. T. | Reuben H. | Gary C.  | Jesse M. S.  | Neil B.  | Paul E. S.  | Thomas ". S. | Kenneth C. L. | Eric J. T.  | Ray A. H.  | Julio G. a. J.  | Ralph ". J. | Jovanna L. | Ross W. M.  | Marcus S. T.  | Name withheld by police | Clevonta ". R. | Akeem C. | Roland C.  | Alisa T. J. | Jason L. E. | Telisha E. | Angela B. | Steven F. P. | Donald F. ". S. | Joseph C. P.  | Ronald D. | Gene M. B.  | William S.  | Jesus H.  | Cixto R. a. S. | Elmer I. R. S. | David E. | Lamont T. H. J. | Tyler S.  | Timothy S. H. | Zak E. R. R. | Joseph P. G. I.  | Andrew J. L. | Daniel G. D.  | Sarah R. | Alfred S. G. | Lucero S. M.  | Marcus G. M. | Joshua D. | Dustin ". F.  | Daniel L. N. | David L. S. | Sandra S. | Larry B. | Daniel J. B. | DeWayne D. S. | Brian H.  | Bernard K. | Russell D.  | Christopher L. B. | Richard M. | Ravinder N.  | Brian M. M.  | James S. C. | Joseph P. | Kimberly A. A. | Janice E. F. | Dontae J. | Orlando L. H.  | Jessie A. S. R.  | Robert C. R. | Armando D. G. | Anthony L.  | Dwight J.  | Manuel D.  | Pamela C.  | Willie M.  | Vincent P. | Alvin L. P. | Calvin A. M. J.  | Kelvin P. | Michael M. | Ronald H.  | Reshird L.  | Zackery W. W.  | Thomas A. P. | Timothy B.  | Michael R.  | Andres E. C. | Nyl R. O. | Albert D. D.  | Susan L. S.  | Christopher S.  | Victor H. S. l.  | David L. K.  | Randy W. M.  | Alfred S. ". C. | Chester L. G.  | Nathan E. V.  | Nick C. D. | William H.  | Mickey O. | Robert T. ". W.  | Miguel A. M.  | Bobby L. S. | Linda C. C. | Wesley A. D. | Luis A. M. | Bobby L. M. J.  | Harvey L. F.  | Clyde D. R. | James C. R. | Chad B. | Rosalio L. | Mario J.  | Irma R. | Jeremiah M. | Wayne E. K. | Aaron M.  | Todd E. W. | Heath J. M.  | Amy J. N.  | Paul B. N. I. | Anthony L. T.  | Allen H.  | Damon E. B.  | Israel L. J.  | Albert M. J.  | Joey C. W.  | Jack D. C.  | William C. G. | Alexander P. | Miguel A. M.  | Santiago U. | Quentin G. | Thomas T. M.  | Moshowon D. ". D.  | Wykyim J. | Eric L. M.  | Steve E. W. | Latia A. W. | Barys R.  | Kenneth ". H. | Stephen B.  | Alexander B. E. | Michael M.  | Robin L. P. M. | Thomas E. S. | Kenneth H. D.  | David R. R. J.  | Tedlee H.  | Albert V. | Jonathan R. | Gabriel D. H. | David S. a. D.  | Mahir S. A.  | Angela R. | Douglas J. F. | Tracy R. W.  | David C. C.  | Jonathan R. S.  | Isaac O.  | Name withheld by police | Warren C. | Shari B. C.  | Ronald W. ". P. | Larry E. W. J.  | Meng X.  | Edward T. F. | Gerald B.  | Charles A. B.  | David H.  | Aaron L. D. | Brenda V. Z.  | April L. K. | Reginald D. W.  | Malcolm S. | Tyler W. H. | Venus M.  | Gaylon C. A. | Clint M.  | Troy W. | Karen G. | Ila J. M. | James J. H. J. | Matthew C. D. | Name withheld by police | Damon K. H. | Elvin D. P. | Rickey J. | Patrick L. G. | Richard A. N. | Jason K. | Jonathan M. S. | Robert R. M. J. | George D. J. | Dirk S.  | Anthony M. B.  | William S. H.  | Sonny V. L. | Artenio R. | Lloyd L.  | Alberta R. B. | Shawn L. G. | Brandon G. | Robert O.  | David M.  | Antonio J. | John C. ". D. | Joseph A.  | Ryan C. | Brian K.  | Melinde M.  | Douglas P. | Frederick J.  | Nathan N. F.  | Christopher A. W.  | Andre A. K.  | Brent I. | Darrell H. P. | Kent K.  | Jose B. | Juan A.  | Nathaniel R.  | Jed W.  | Mark A. S. | Name withheld by police  | Joan R.  | Ricky R. L. | Andy ". H. | Daniel J. E. | Brian M. | Matthew ". S. T.  | Shirley A. | Shawn G.  | Jessica J.  | Jaime P. | Rashid J. J.  | Travis K. Q.  | Name withheld by police | Satnam S.  | Joshua W. G.  | Julie M. W. | Vincent A. T.  | Edward M. W. | Joseph R. A.  | Nicholas E. S.  | Blake B. | Robert L.  | Troy D. M. | Eric F. | Ryan R. D.  | Phillipe L.  | Jimmy H. J.  | Gary M. W.  | Howard T.  | Alex G.  | Marcayla A.  | Jeremy E. H.  | Paul W. G.  | Curtis M. G. | Stephen R.  | James M. S. | Patrick J. F. I.  | Nathan L.  | Charlie F. | Christian F.  | John A.  | Perry L. | Victoria S.  | Kathleen H. | Charlotte G.  | Juan C. | Anthony D. C.  | Delbert E. W.  | Hans G. H. | Name withheld by police  | Raymond I. | Sambo S. | Donald S. | Warren L.  | Tahir A.  | Horace M.  | Russell T. M.  | Mark A. M. | Daniel D. | William J. K.  | Jose J. R. | Darnell M.  | Lawrence D. R. | Donnie E. M. | Ion U. | James S. | Jacob W.  | Jose G. G. | Luis A. G. | Reymundo P. P. | Abdel A. A.  | Danny T.  | Darrell S. | Dennis G.  | Juan C. | Jose O. d. l.  | Jasper L. T.  | Charles T. | Mycol F.  | Christian W. R. | Frank P.  | Eric ". O. I. | Patrick D. T. | Aaron M. C.  | Michael S.  | Karen S.  | Rocky A. W.  | Ronald D. P.  | Name withheld by police | Terrence D. W. J.  | Joe S. J. | Gerald R.  | Travis P. J. | Matthew ". L. H. | Tonya S. | George S. J. | Richard A. D. | William L. C. I. | Arturas K.  | Edward L. S.  | Patrick B.  | Cara C.  | Wade C. S.  | Ut ". N. | Judith G. | Daniel M. | Timothy W.  | Kelly B. | Maurice E. S. J. | Dannie Y.  | James P. A.  | Victoria P.  | Zachary C. M.  | Joe W. | Donald M. H.  | Steven E. C.  | Spencer O.  | Fernando L. | William R. B. I. | Antonio M. J. | Jose O.  | Marbilia G. M. | Louis G.  | Derek M.  | Reginald M. | Daniel E. A. S. | Alfonso P. M.  | Name withheld by police  | Louis E. A. | Kautilious C.  | Raymond L. L.  | Gordon E. W.  | Santos G. S. | Andrew J. R. | Kenneth E. I.  | Justin D. G. | Michael J. S.  | Benjamin H. | Christopher D. B. | Colby J. K.  | Jennifer L. M. C.  | Henry L. B. | Luis M. | Dan M.  | Ethan L. O.  | Vincent C. S. | Billy L. G. J.  | Tremall L. A.  | Louis K.  | Leray H.  | Aaron R.  | Jason K.  | Robert D. D.  | Ernest S. D.  | Paul E. O. | Sylvia B. M. H.  | Name withheld by police  | Timothy G. H.  | Altariq H.  | Delano R. S.  | John V. | Name withheld by police  | Stewart K. W.  | Name withheld by police | Torey B.  | Thomas L. W. J.  | Prince A. B. A.  | Johnny L. W.  | Clifford S. M. | Daron M. P.  | Anthony M. D. C. | Jorge A. S.  | George R. R. J. | Gary W. B.  | Carol J.  | Raymond ". D. | Aaron J. H.  | Colby W. E.  | Dennis G. C.  | Tevita T. F. |
+Demetria D.  | Kelvin D.  | Willie H.  | Rodney B. | Lynn W.  | Darryl M.  | James P. ". M. | Reggie D. P. | Randall W. ". L. | Jeffery W. E. | Patrick G. J.  | John T. M. | David D. B. | Gwendolyn K. | Vinh ". V. B. | Kenny W. G.  | Clyde C. B. I. | David T. C.  | Phillip P. M.  | Diego M. G. | Khalifa T. K. | Jean D. E. | John H. J. | Mark S. Y. J.  | Jose S. J.  | Dominic C.  | Marlo S. Y. G. | Ephraim W. | Kevin W.  | Daniel P. | Michael C. E. | Jeffrey M. Y.  | Name withheld by police | Elisha C.  | Rasmee M. | Maurice E. P.  | Terry N. T.  | Charles K. G.  | Payton R. I.  | Robert R. J.  | Zachary B.  | Jack M. S. | Christopher L. K.  | Michael D. K. | Dionne A. B. | Obataiye E. | Dawud C. | Yahree J. C. | James E. R.  | Ryan J. D.  | Joseph M. B. | Jose O. C. | Ray B. | Name withheld by police  | Name withheld by police  | Name withheld by police  | Mohamed Z. | Fatou-Mata N.  | James C. S. | Jose R. L. | Michael T. B. | Anthony M. C.  | Darryel D. F. | Brandon E. C.  | Ciara C. L.  | Brandon F. | Patrick E. G.  | Holli G.  | Name withheld by police  | Sarah K. M. G.  | Elmer A. P. | Stephen A. L. | Jerry B. | Elaine J. V.  | Shaun V.  | Tyler W. | Heather B. P. | Bryan S. W. | Justin E. W. | Linel L. | Chad D. M. | Gary H. J.  | Douglas Z.  | James F.  | Anthony J. | Guy J. J. J. | Jesse E. W. | Tynisha J. T. | Roman G. | Andres R.  | Kyle L. K. H. | Eugene E. E. | James S.  | Cory D. J.  | Aaron R. M.  | Donald T. P. | Nery A. L. | Name withheld by police  | Cory H. | Darius C.  | Edward M.  | Bobby F.  | Raymond F. A. | James A. P.  | Michael D. W.  | Leon M. J. | John W. S. J.  | Stephen G. O. | Joe W.  | Naaman P.  | Akeron T.  | Amanda J. T.  | Andre M.  | Ontario ". B.  | Jeremy A. G. | Robert F.  | Brandon D. | Clayton E. J.  | Jarrett B.  | Glenn S. G. | Michael A. F.  | Tavan C. | Derrick B. | Haley W. | Deandre B.  | Lamont W.  | Brandon K. I.  | Jesus T. M. | Jeannia L. D.  | Harold M. S. | William H. R.  | Larry T. S.  | Nathan F. | Samuel H. | Robert S. L. | Gary G.  | Daniel G. A.  | Richard S. P.  | Gabriel T. F. | Name withheld by police | Willie L. W.  | Mike J. B.  | Name withheld by police | Blaine T. M.  | Gavin M. T.  | Genevieve C. ". C. | Alexander A.  | Rodney E. G.  | Derek B.  | Joel A. C. | Xavier F. | Heather M. C. | Sean S. M.  | Name withheld by police | Denevious T.  | Terrance G. | Craig B. | Ruben R.  | Vu H. Q. | Carlos A. G. | Raymond M. H. | Karl S.  | Lon E. P.  | Thomas S.  | Stephen ". S. J. | Steven M. C. | Armando L. | Rick A. G.  | Michael S.  | Curtis S.  | Benjamin H. B. | Anthony B.  | Kelly J. B. | Wesley G. P. J.  | Victor M. A.  | James R. B.  | Sergio G. | Jaime D. D. | Sherddrick C. | Robert S.  | Thomas C. B.  | Ethan A. C.  | Brian C. B.  | John C. W. J.  | Derek L.  | Robert ". H.  | Todd A. B. J.  | Shane M. H. | Christopher D. O. | Arushary L. G. | Robert T. | Derrick J. | Benjamin H.  | Alexandra N. N.  | Tony M.  | Johnny V.  | Jerome D. | Jahind D.  | Rajon C. | Jeffrey E. B.  | Justin M. | Robert A. N. J. | Thaddeus B. B. | Hugh B. S. a. | Dana A. R.  | Gibran F. | Paulo B. | Kenneth M. H. | Connectis G. | Eugene L. A.  | Billie N. L. | Nathaniel W. H. | Charles ". C. | Mark D. S. | Mark A.  | Joshua M.  | Howard H. H.  | Matthew K.  | Sullivan G.  | Hugo N. C. | Name withheld by police  | Name withheld by police | Alexei S.  | Nicodemus S.  | Jeanine Y. H. | Kenneth L. W. | Timothy C.  | Daniel H. R.  | Tobias A. M.  | Samuel T. C. I. | Henry D.  | James L. | Donald D.  | Zachary J. R.  | Mark C.  | Michael N. | Acrifa S.  | Michael A. V. | William L. K. | Douglas M. O. | Stephen ". B. S.  | David S. | Name withheld by police | Shaiheem D. G.  | Nelson G. H. I. | Joseph A. B. | Quentin D. D.  | Larry A. B. | Thomas S. | Marques R. B.  | Roger D. P. I. | Cesar S.  | James R. | Amir M. | Charles T. P.  | Anthony W.  | Richard R. | Jose E. | Richard S. C.  | Pearce C.  | Troy H.  | Brian J. A. | Antonio M. R. | David P. B. | Joseph E. M.  | Daniel G. | Elizabeth A. S. | Name withheld by police | Danroy H. J.  | Dexter L.  | Christopher S. K. | Randall E. N. | David M. S.  | Karreem A. A. | Manuel G. L. | Billy J. C. | Leslie M. M. | Anthony W. T. | Michael A. A.  | Manuel P. C.  | Wardell J. J. | Eugene J. W.  | Nancy M. R. | Earl W.  | Gerald B. I. | John ". M.  | Ryan M. B. | Johnathan C. | Richard J. R. | Albert J. V. I. | James D.  | Rashaad B.  | Christopher B. R. | Patrick J.  | Brandon R. D.  | Douglas W.  | Brian D.  | Rod F.  | Larry D. K.  | Juan M. J.  | Daniel F. R. | Reginald L.  | Javon R.  | Tony C. | Calen K.  | Douglas J. W. | Emmanuel P. | Sean B. M. | Marcus L. H.  | Letha C. A.  | Asoi V. | Devin R. C. | Gabriel C.  | Selwyn C. L.  | Danny W. J.  | Alfred M. S. | Cole R. R.  | Anna B.  | Jamail J. A. | Eric P. | Jeff L. | Shawn M.  | Grace S. S. | Sean S.  | Valerie S.  | April S. | Name withheld by police | Aaron L. J.  | Jerome ". W.  | John A. J. | Scott K. | Jack S. | Mark C. | Frank W. H.  | Name withheld by police  | Michael L.  | LePear L. T.  | Michael L. R. | Patrick A. F.  | Robert H. R. | Kelsey L. M. | Actavia W.  | Lonnie G. C. S.  | Matthew L. M. | Dwight D. J. | Francisco O.  | Rita E.  | Tyree Q. | Marcus R.  | James R. D. S.  | Daniel S.  | Justin R. B. P. | Olivier Y. C.  | Jose A. S.  | Jesus J. ". H. | Frederick W. | George L. | Joseph F. K.  | Harold W. S. J.  | William ". A. L.  | Randall B.  | David C. S. | Ruslan Z.  | Gregory R. ". D.  | Calvin L. T. | Mark D.  | Todd E. B.  | Gary L. G.  | Jose D. J. V. | Vincente J. R.  | Name withheld by police  | Bertrand M. | William M. B.  | Dan K.  | Eric K. B. | David T. J.  | David D. P.  | Freddie L. L. | Derek S. P. | Jose L. M. | Brent B. | Franklin ". B. | Trevor D. S. | Abraham A. D. | Manuel S.  | Joe T. M. | Larry V. R. | David S. B. | Richard M. V. | Christine S. | Armando A.  | Kamyn J. W. B.  | Roderick W. V. | William K. | Nikkolas W. K. L.  | Name withheld by police  | Henrietta S. | Kevin B. P.  | David T.  | Francisco M.  | Manuel J. a. M.  | Adam C. | David R. | Michael L. C. | Gary L. S.  | Richard W. S.  | Bruce C. J. | James L. K. | Joshua F. | Amin Y. R.  | Lance D. | Michelle O. | Roxanne R.  | Adrian R. G.  | Jason M. M. | King R. P. H.  | Efren V.  | David C. Y. | Edward C. Z. S. | Thomas R. C.  | Estela M. | John T. W.  | Kenneth J. W.  | Brian S. C. | Anthony R. S.  | Michael B. S.  | Billy R. C. | Leonel M. | Bjorn R.  | Tim D. | Stuart A. W.  | Robert B. M. | Brandon B. | Briana O. | Christopher G. | Charles M.  | Vincent B. | Roel E. C.  | Name withheld by police | Kenneth M. | Mark H.  | Wayne S. C.  | Eduardo L.  | Scott A. W. | Garfield R. K. | Clayton J. W. J. | Damon W. | James W. K. | Matthew J. G. | Caren G. A.  | Alonzo A.  | Julian M.  | Charles P. ". S. | Joseph T. | Casey L. D.  | Tarnorris T. G.  | Clarence R. | Brittany J.  | Stanley J. J.  | Steven M. I.  | James R. S.  | Ramiz O.  | Sean C. | Adam D.  | Dalerico S. V. | David L. | Ricky H.  | Patrick G. S. | Mariano L. | Enrique C.  | Edward C. S.  | Kenyatta B. J. | Tex E. T.  | Ariel E. R. | James E. S. I.  | Ruben A. F. J.  | Edgar J. A. | James A. T. B. | Michael F.  | Philip J. P.  | Tony W. B. | Maurell M. | Thomas C. W. | Carmen J. P. | Trevor L. H.  | Terry G.  | Gibson J. B. | Vandaro D. C. | Laurie R. R.  | Jordan D. | Samuel M. R.  | Joell L. J. | Donald W. ". R.  | Joseph D. H.  | Itali A. | Arthur M. | Troy A. G.  | Rickie D. J.  | Name withheld by police | David C. U.  | Dennis L. C.  | Andrew T. | Charles A. H.  | Luis S.  | Name withheld by police  | Robert G.  | Ryan B. J. | Eric W.  | Raul P. J.  | Joseph A. ". C. | Diego O. | Charles B.  | Keith M. R.  | Juan S. C. | Gary D. C. | Walter E. J.  | Robert J. C.  | Daniel R. | Dennis C. S.  | Daniel M. | Alfred R. V. | Luther C. | Charles C. K.  | John E. D.  | Sandra S. C.  | Gary W. C.  | Peter C. R. | Harold ". B. | Name withheld by police | John C. C.  | Raul B. | Larry S. B. J.  | Roger T. | Michael W. L. | Markiese R. | William T. S. | Joann B.  | Trenton J. S. | Isaiah S. B.  | Len F. | Angel H. F. | James M. W.  | Corey H.  | Douglas S. I.  | Ronald L. R.  | Adeliano S.  | Richard G. S. J.  | Queonna Z. E. | Haines E. H. | Donnell W.  | Justin C. H.  | George ". M. F. | Jermaine W. | Gregg A. K.  | Matthew J. N. | Carol K. | Erik D. S.  | James E. R. J. | Josh M. | Clifford T. R.  | Ashley W.  | Alberto A.  | Naquan J.  | Robert E.  | Pedro S. C. | Todd D. G.  | Michael J. B.  | Jose P. S.  | Logan H. | Tabatha M. H.  | Brian C. J. | Jason K. | Robert G.  | Scott D. S.  | Jimmy E. | John C. C.  | Rodney E. H. | Edward G. S.  | Monty K. | Mark W. | Brandon J.  | Arturo P. B. | Tyron L. S.  | Fred C.  | Dennis H. | Name withheld by police | DeFarra ". G. | Gary P. B.  | Luciano R.  | Name withheld by police  | Brandon D. H. | Jerome G. | Seth P. | John C. C.  | Rashaan G. | Jataynun T. F. | Clifton A. S. | Cedric D. H. | Lance G. ". M. | Justin J. L.  | Thomas L. ". L.  | Whit M.  | Leyda M.  | Dennis D. J.  | Anibal R. | John C. J.  | Jamarr M. ". ".  | Arika L. H. | Bryan P. J.  | Arthur W. | Allen M.  | Erik S.  | Carlos F. | Javier R.  | Roman O. P.  | Traveon J. A.  | Marvin B. | William O.  | Allison S.  | Jose C. R. | William H. J. | Phyllis O.  | Joseph B. | Jason T. B.  | James F. P.  | Joe A. G.  | Mayceo O. D. | Paul S. S. | Jeffrey L. C.  | Kelly D. S. | Gerald H. ". K.  | Brian P.  | Decarlos M.  | Dennis J. J. | Damon L. F. | Kevin A.  | Edmund ". G.  | DeMarlo H. | Robert J. R.  | Brooks J. A.  | Bianca W.  | Richard B. N. | George L. | Travis J. B. | Moses J. M. | Lextrell W. | Edward S. W.  | Alan B. | David L. W. | Richard R. I. | Jose L. M. C.  | Julian S. C.  | Charlie C. | William B. B. | Andrew C. | Diego C.  | Andre M. M. | Choung V. N. | Robert M. W.  | Arturo E. | Ernest R. I. | Scott A. B. | Shaun M. B.  | Kinzy L. T.  | Marquez T. B.  | Normane B.  | Guy S. E. J.  | Matthew T.  | Marcus M. W.  | Marvin F.  | Zachary C. | Laszlo J. L.  | Raymond B. | Vaughn S. | Jahad P.  | Mary C. G.  | Daniel S. | Abel B. | Richard C.  | Robert E. B. | Jamyrin P. | David O. B. J.  | Thuan B. P. | Marko A. P.  | Pascual A. | Bryan G.  | Domingo B.  | Marina B.  | Daniel G. | Anthony C. R.  | Max J. G.  | Jesus B. V. | Robert W. K. | Caroline M. S. | Kayre G. S.  | Walter W.  | Diosdado P.  | William R. B. | Veronica H. | Dexter L. | Matthew S. C. | John N. E.  | Michael H. P.  | Michael T. W.  | Thomas P. M. | Julian C. | Jose A. J. | William O.  | Juan M. | Curtis R. | Donnie J. L.  | Trevon C. | Thomas E. H. J.  | Carroll J. E.  | Montie ". M.  | Anthony R. A. | Kayla W. | Chris H.  | Andres P. P. | Kenneth A. S. R. | Terrell B. S. | Carl W. B.  | Brian C. | Anthony A. | Ezra L. R.  | Terrell L. H.  | Reno V.  | Richard M. K.  | Keith N. | Christina Y. M.  | Michael W. B. | Benjamin J. D. | Kelly D.  | Sergio A. H. G. | Name withheld by police  | James E. F. J.  | Timothy D. G.  | Stephen C. H. | William C.  | James F. | Tasha B. | Dwayne M. W.  | Audy F.  | Thomas M. H. | Tyrone B.  | Gregory T. ". B.  | Robert K. B. | Billy R. S. J. | Benjamin S. T.  | Brian P. W. | Alfonso L. ". M.  | Millis E. F. | Jose J. G. | Brian N. E.  | Albert L. J. | Bernard J. K.  | Devin W. | Richard A. N.  | Jessie N. C.  | Joseph R.  | Jose A. M. | Deangelo E. J. F.  | Michael R. ". W.  | Anastasio H.  | Anthony B. B. | Carl D. J.  | Belinda K. B. | Abraham D. | Oscar M. | Jose F.  | Michael J. C.  | Randall D. K.  | Alfred P.  | Christ C. C.  | Jim H.  | Leon J.  | Ashword C. C. | Scott A. M.  | Matthew D. I.  | Andrew C.  | Timothy C. | Efrain C.  | Agim B.  | Reginald J. | John L. F.  | Sarah B. | John J. S. I.  | Keith J. M. | Victoria H. R. | Israel I. C. | Name withheld by police | Name withheld by police | Nathan M. | Joseph T. K. | Jerry R. K. J. | Richard R. W.  | Brian F. | Ivan C.  | Andrew M.  | Ronald J. B. | Timothy C. | Miriam ". O.  | Shon B.  | Anthony H.  | Fernando M. | Name withheld by police  | Garrick H.  | Craig S. | Deborah H.  | Jose V. | Aiyana M. S. J. | Kenneth B. Y. S.  | Brian E. S. | Christopher J. G. | Abel A. H.  | Sukeba ". J.  | Melvin W.  | Robert A. A.  | Sue M.  | Monty E. M. | Vincent M. Y.  | Name withheld by police  | John P. D. |## PRESS RELEASE – FOR IMMEDIATE RELEASE
+
+**Subject: Documented Incident of Police Misconduct Under Legal Review – Call for Journalistic and Public Attention
+[City, Georgia] – June 2025**
+
+> A 2020 case involving an incident of police misconduct, currently under legal review, has raised urgent concerns regarding civil rights,
+> use of force, 
+> and judicial transparency in Southeast Georgia. 
+> 
+> The victim of the incident—whose identity is protected for legal reasons—has compiled extensive legal documentation and media
+> supporting their claim of unlawful arrest and excessive force by a state officer. 
+> This material is being made available to journalists
+> and human rights organizations.
+> 
+> The individual is self represented (pro-se), and outreach efforts are underway to secure independent reporting and oversight.
+> 
+> Available for Review:
+>     • Legal filings, audio/video, affidavits
+>     • Expert opinions on legal violations
+>     • Redacted incident reports and supporting documentation
+> 
+> Inquiries from newsrooms, legal watchdogs, and public advocates are
+> welcomed.
+
+
+                                                                                                                                            
+   ---
+   https://interactive.aljazeera.com/aje/2020/know-their-names/index.html
+---
+  https://www.newsweek.com/full-list-229-black-people-killed-police-since-george-floyds-murder-1594477
+  ----
+  https://theirnames.org/
+----
+ https://saytheirnamesmonuments.com/
+---
+ephesians 6:11-24
+11 Put on the whole armour of God, that ye may be able to **stand against the wiles of the devil.**
+
+12 **For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.**
+
+13 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, **to stand.**
+
+14 Stand therefore, having your loins girt about with **truth,** and having on the breastplate of **righteousness;**
+
+15 And your feet shod with the preparation of the gospel of **peace;**
+
+16 Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the **wicked**.
+
+17 And take the helmet of **salvation,** and **the sword of the Spirit, which is the word of God:**
+
+18 Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+
+19 **And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,**
+
+20 **For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.**
+
+21 **But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:**
+
+22 **Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.**
+
+23 **Peace be to the brethren**, and **love with faith**, from **God the Father and the Lord Jesus Christ**.
+
+24 **/Grace be with all them that love our Lord Jesus Christ in sincerity. Amen./**
+
+
+Here's a carefully curated list of powerful **speeches against oppression, government overreach, and corruption**, spanning cultures, eras, and causes. These speeches have stirred consciences, challenged tyrannies, and sparked reform. Where possible, I've linked to **official transcripts** or reputable sources with video/audio:
+
+---
+
+### 🔥 Historic Speeches
+
+| Speaker                | Title / Context                                     | Link                                                                                                                                       |
+| ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Patrick Henry**      | *“Give me liberty, or give me death!”* (1775)       | [Text (USHistory.org)](https://www.ushistory.org/PatrickHenry/give-me-liberty.htm)                                                         |
+| **Frederick Douglass** | *“What to the Slave is the Fourth of July?”* (1852) | [Text + Audio (NPR)](https://www.npr.org/2020/07/03/887386234/frederick-douglass-s-fourth-of-july-speech-still-resonates)                  |
+| **Sojourner Truth**    | *“Ain’t I a Woman?”* (1851)                         | [Text (National Park Service)](https://www.nps.gov/articles/sojourner-truth.htm)                                                           |
+| **Abraham Lincoln**    | *Gettysburg Address* (1863)                         | [Text + Context (Archives.gov)](https://www.archives.gov/exhibits/american_originals/gettysb.html)                                         |
+| **Winston Churchill**  | *“We Shall Fight on the Beaches”* (1940)            | [Text + Audio (WinstonChurchill.org)](https://winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/) |
+
+---
+
+### ✊ Civil Rights and Resistance
+
+| Speaker                    | Title / Context                                | Link                                                                                                                 |
+| -------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Martin Luther King Jr.** | *“I Have a Dream”* (1963)                      | [Video + Transcript (Archives.gov)](https://www.archives.gov/files/press/exhibits/dream-speech.pdf)                  |
+| **Malcolm X**              | *“The Ballot or the Bullet”* (1964)            | [Text (BlackPast)](https://www.blackpast.org/african-american-history/1964-malcolm-x-ballot-or-bullet/)              |
+| **Nelson Mandela**         | *“I Am Prepared to Die”* (1964)                | [Full Speech (ANC Archives)](https://www.anc1912.org.za/content/i-am-prepared-die-statement-nelson-mandela)          |
+| **Angela Davis**           | *Prison Industrial Complex (various speeches)* | [Compilation (UCLA Humanities)](https://www.humanities.ucla.edu/events/angela-davis-keynote-speech/)                 |
+| **John Lewis**             | *1963 March on Washington Speech*              | [Excerpt + Video (C-SPAN)](https://www.c-span.org/video/?c4463116/user-clip-john-lewis-march-washington-speech-1963) |
+
+---
+
+### 🧭 Anti-Corruption & Government Critique
+
+| Speaker                  | Title / Context                                        | Link                                                                                                                           |
+| ------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Theodore Roosevelt**   | *“The Man with the Muckrake”* (1906)                   | [Text (AmericanRhetoric)](https://www.americanrhetoric.com/speeches/theodorerooseveltmuckrake.htm)                             |
+| **Dwight D. Eisenhower** | *Farewell Address: Military-Industrial Complex* (1961) | [Video + Transcript (Eisenhower Library)](https://www.eisenhowerlibrary.gov/eisenhowers/farewell-address)                      |
+| **Robert F. Kennedy**    | *Remarks on Poverty and Justice* (1968)                | [Text (JFK Library)](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-speeches) |
+| **Ron Paul**             | *“Stop the War on Our Liberties”* (Various)            | [Compilation (RonPaulInstitute)](https://www.ronpaulinstitute.org/)                                                            |
+
+---
+
+### 🌐 Global Speeches Against Tyranny
+
+| Speaker              | Title / Context                                                          | Link                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Václav Havel**     | *New Year's Address to the Nation* (1990, post-Communist Czech Republic) | [Text (Vaclav Havel Library)](https://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=80_aj_clanky.html&typ=HTML) |
+| **Aung San Suu Kyi** | *Freedom from Fear* (1990)                                               | [Text (Nobel Prize)](https://www.nobelprize.org/prizes/peace/1991/kyi/lecture/)                                   |
+| **Jawaharlal Nehru** | *Tryst with Destiny* (1947)                                              | [Text (Indian Parliament)](https://www.india.gov.in/spotlight/tryst-destiny)                                      |
+| **Mario Savio**      | *Machine Speech (Berkeley Free Speech Movement)* (1964)                  | [Video + Transcript (FSM Archives)](https://www.fsm-a.org/stacks/mario/mario_machine.html)                        |
+
+---
+
+### 🎭 Fictional / Cultural Moments Worth Noting
+
+| Speaker              | Title / Context                                                          | Link                                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Charlie Chaplin**  | *“The Great Dictator” Speech* (1940)                                     | [Video + Transcript (CharlieChaplin.com)](https://www.charliechaplin.com/en/synopsis/articles/29-The-Final-Speech-from-The-Great-Dictator-) |
+| **V (Hugo Weaving)** | *“People should not be afraid of their governments…”* (*V for Vendetta*) | [Video + Transcript (IMDb Quotes)](https://www.imdb.com/title/tt0434409/quotes/qt0395730)                                                   |
+
+Here's a carefully curated list of powerful **speeches against oppression, government overreach, and corruption**, spanning cultures, eras, and causes. These speeches have stirred consciences, challenged tyrannies, and sparked reform. 
+Where possible, I've linked to **official transcripts** or reputable sources with video/audio:
+
+---
+
+### 🔥 Historic Speeches
+
+| Speaker                | Title / Context                                     | Link                                                                                                                                       |
+| ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Patrick Henry**      | *“Give me liberty, or give me death!”* (1775)       | [Text (USHistory.org)](https://www.ushistory.org/PatrickHenry/give-me-liberty.htm)                                                         |
+| **Frederick Douglass** | *“What to the Slave is the Fourth of July?”* (1852) | [Text + Audio (NPR)](https://www.npr.org/2020/07/03/887386234/frederick-douglass-s-fourth-of-july-speech-still-resonates)                  |
+| **Sojourner Truth**    | *“Ain’t I a Woman?”* (1851)                         | [Text (National Park Service)](https://www.nps.gov/articles/sojourner-truth.htm)                                                           |
+| **Abraham Lincoln**    | *Gettysburg Address* (1863)                         | [Text + Context (Archives.gov)](https://www.archives.gov/exhibits/american_originals/gettysb.html)                                         |
+| **Winston Churchill**  | *“We Shall Fight on the Beaches”* (1940)            | [Text + Audio (WinstonChurchill.org)](https://winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/) |
+
+---
+
+### ✊ Civil Rights and Resistance
+
+| Speaker                    | Title / Context                                | Link                                                                                                                 |
+| -------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Martin Luther King Jr.** | *“I Have a Dream”* (1963)                      | [Video + Transcript (Archives.gov)](https://www.archives.gov/files/press/exhibits/dream-speech.pdf)                  |
+| **Malcolm X**              | *“The Ballot or the Bullet”* (1964)            | [Text (BlackPast)](https://www.blackpast.org/african-american-history/1964-malcolm-x-ballot-or-bullet/)              |
+| **Nelson Mandela**         | *“I Am Prepared to Die”* (1964)                | [Full Speech (ANC Archives)](https://www.anc1912.org.za/content/i-am-prepared-die-statement-nelson-mandela)          |
+| **Angela Davis**           | *Prison Industrial Complex (various speeches)* | [Compilation (UCLA Humanities)](https://www.humanities.ucla.edu/events/angela-davis-keynote-speech/)                 |
+| **John Lewis**             | *1963 March on Washington Speech*              | [Excerpt + Video (C-SPAN)](https://www.c-span.org/video/?c4463116/user-clip-john-lewis-march-washington-speech-1963) |
+
+---
+
+### 🧭 Anti-Corruption & Government Critique
+
+| Speaker                  | Title / Context                                        | Link                                                                                                                           |
+| ------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Theodore Roosevelt**   | *“The Man with the Muckrake”* (1906)                   | [Text (AmericanRhetoric)](https://www.americanrhetoric.com/speeches/theodorerooseveltmuckrake.htm)                             |
+| **Dwight D. Eisenhower** | *Farewell Address: Military-Industrial Complex* (1961) | [Video + Transcript (Eisenhower Library)](https://www.eisenhowerlibrary.gov/eisenhowers/farewell-address)                      |
+| **Robert F. Kennedy**    | *Remarks on Poverty and Justice* (1968)                | [Text (JFK Library)](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-speeches) |
+| **Ron Paul**             | *“Stop the War on Our Liberties”* (Various)            | [Compilation (RonPaulInstitute)](https://www.ronpaulinstitute.org/)                                                            |
+
+---
+
+### 🌐 Global Speeches Against Tyranny
+
+| Speaker              | Title / Context                                                          | Link                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Václav Havel**     | *New Year's Address to the Nation* (1990, post-Communist Czech Republic) | [Text (Vaclav Havel Library)](https://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=80_aj_clanky.html&typ=HTML) |
+| **Aung San Suu Kyi** | *Freedom from Fear* (1990)                                               | [Text (Nobel Prize)](https://www.nobelprize.org/prizes/peace/1991/kyi/lecture/)                                   |
+| **Jawaharlal Nehru** | *Tryst with Destiny* (1947)                                              | [Text (Indian Parliament)](https://www.india.gov.in/spotlight/tryst-destiny)                                      |
+| **Mario Savio**      | *Machine Speech (Berkeley Free Speech Movement)* (1964)                  | [Video + Transcript (FSM Archives)](https://www.fsm-a.org/stacks/mario/mario_machine.html)                        |
+
+---
+
+### 🎭 Fictional / Cultural Moments Worth Noting
+
+| Speaker              | Title / Context                                                          | Link                                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Charlie Chaplin**  | *“The Great Dictator” Speech* (1940)                                     | [Video + Transcript (CharlieChaplin.com)](https://www.charliechaplin.com/en/synopsis/articles/29-The-Final-Speech-from-The-Great-Dictator-) |
+| **V (Hugo Weaving)** | *“People should not be afraid of their governments…”* (*V for Vendetta*) | [Video + Transcript (IMDb Quotes)](https://www.imdb.com/title/tt0434409/quotes/qt0395730)                                                   |
+
+---
+
+> 🧨 Revolutionary and Abolitionist Era 
+>Speaker	Title / Context	Link
+>
+>
+> Frederick Douglass	“What to the Slave is the Fourth of July?” (1852) — direct critique of poverty, slavery, and hypocrisy	Read / Listen (NPR)
+>
+> Sojourner Truth	“Ain’t I a Woman?” (1851) — a fierce callout of Black women's labor, neglect, and poverty	Transcript (NPS)
+> 
+> 🏚 Depression & Industrial Era 
+>Speaker	Title / Context	Link 
+>
+>
+>Mother Jones (Mary Harris Jones)	Speech to Coal Miners and Textile Workers — fiery indictments of corporate exploitation	Excerpt (Khan Academy)
+>
+> Eugene V. Debs	1918 Anti-War Speech — jailed for defending poor laborers sent to war	Text (Marxists.org) 
+>
+> Franklin D. Roosevelt	“The Forgotten Man” (1932) — direct address to America’s unemployed and impoverished	Transcript (American Rhetoric)
+> 
+> 🥾 Civil Rights & Poverty 
+> Speaker	Title / Context	Link 
+>
+>
+>Martin Luther King Jr.	“I’ve Been to the Mountaintop” (1968) — workers’ rights, Memphis sanitation strike	
+>Text + Audio (King Institute) 
+>
+>MLK  Jr.	“Beyond Vietnam: A Time to Break Silence” (1967) — systemic poverty and militarism	
+>Full Transcript (American Rhetoric)
+>
+>
+> Fannie Lou Hamer	“I’m Sick and Tired of Being Sick and Tired” (1964 DNC) — grassroots voice of rural poverty	
+> Text (SNCC Digital Archive)
+> 
+> 🏴 Global and Anti-Colonial Voices
+>  Speaker	Title / Context	Link
+>   
+>
+>  Frantz Fanon	“The Wretched of the Earth” (1961, often quoted speeches on systemic poverty)	Excerpts (Marxists.org) 
+>
+>  Hugo Chávez	UN Speech (2006) — condemnation of neoliberalism's effect on the poor	Text (UN Record)
+>
+> Thomas Sankara	Speech on Debt and Imperialism (1987) — speaks as voice of African poor	Transcript (Marxists.org)
+> 
+> 🧢 Modern Labor, Austerity, and Anti-Poverty Advocates Speaker	Title / Context	Link 
+>
+>
+>Bernie Sanders	“The American Oligarchy Must Be Broken”
+> (2020) — concentrated wealth vs working class	
+Video + Transcript (BernieSanders.com) 
+>
+>Naomi Klein	“Disaster Capitalism and the Poor” (various) — critique of exploitation in crises	Video Compilation (YouTube)
+> 
+> Cornel West	“We Can’t Save Democracy Without the Poor”
+> (various lectures)	Lecture Clips (YouTube)
+>  
+> Arundhati Roy	“Come September” (2002) — imperialism, capitalism, and the global poor	Transcript (ratical.org)
+
+
+| Speaker                | Title / Context                              | Year        | Link                                                                                                                                         | Notable Excerpt                                                                                                                                                                                                               |
+| ---------------------- | -------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frederick Douglass     | *What to the Slave is the Fourth of July?*   | 1852        | [Read/Audio (NPR)](https://www.npr.org/2020/07/03/887386234/frederick-douglass-s-fourth-of-july-speech-still-resonates)                      | “What, to the American slave, is your 4th of July? I answer; a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.”                            |
+| Sojourner Truth        | *Ain’t I a Woman?*                           | 1851        | [Transcript (NPS)](https://www.nps.gov/articles/sojourner-truth.htm)                                                                         | “That man over there says that women need to be helped into carriages, and lifted over ditches, and to have the best place everywhere. Nobody ever helps me into carriages, or over mud-puddles, or gives me any best place!” |
+| Mother Jones           | Speech to miners and workers                 | Early 1900s | [Excerpt (Khan Academy)](https://www.khanacademy.org/humanities/us-history/rise-to-world-power/age-of-empire/a/mother-jones-and-child-labor) | “Pray for the dead and fight like hell for the living.”                                                                                                                                                                       |
+| Franklin D. Roosevelt  | *The Forgotten Man*                          | 1932        | [Transcript (American Rhetoric)](https://www.americanrhetoric.com/speeches/fdrtheforgottenman.htm)                                           | “Who is the forgotten man at the bottom of the economic pyramid? That man is, of course, the American worker, the small farmer, the family that tills the soil, and the family that works with their hands.”                  |
+| Martin Luther King Jr. | *I’ve Been to the Mountaintop*               | 1968        | [Text + Audio (King Institute)](https://kinginstitute.stanford.edu/encyclopedia/ive-been-mountaintop)                                        | “There comes a time when a man must stand up—not just for himself, but for all humanity… And the great issue is this: the fight for jobs and justice.”                                                                        |
+| Fannie Lou Hamer       | *I’m Sick and Tired of Being Sick and Tired* | 1964        | [Text (SNCC Archive)](https://snccdigital.org/people/fannie-lou-hamer/)                                                                      | “I question America because I have heard so many promises that weren’t kept.”                                                                                                                                                 |
+| Václav Havel           | *New Year's Address to the Nation*           | 1990        | [Text (Vaclav Havel Library)](https://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=80_aj_clanky.html&typ=HTML)                            | “The power of the powerless lies in their ability to refuse to live a lie.”                                                                                                                                                   |
+| Bernie Sanders         | *The American Oligarchy Must Be Broken*      | 2020        | [Speeches (BernieSanders.com)](https://berniesanders.com/speeches/)                                                                          | “We are the only major country on Earth not to guarantee healthcare to all people as a right. That is an embarrassment to our nation.”                                                                                        |
+| Arundhati Roy          | *Come September*                             | 2002        | [Transcript (Ratical.org)](https://ratical.org/ratville/CAH/ArundhatiRoy.html)                                                               | “The globalized corporate economy is built on the poverty of the poor.”                                                                                                                                                       |
+
+
+
+Summary and Reflection
+These speeches share a common thread: 
+the spotlight on systemic failures
+ that condemn millions to poverty, neglect, and injustice.
+
+The voices range from abolitionists, early labor activists, 
+civil rights leaders, to modern-day progressives and international figures.
+
+The rhetorical power comes from vivid personal testimony, moral indictment, 
+and a call to collective action.
+
+
+---
+
+Their Names
+mission statement
+year | gender | age | ethnicity | location | cause
+obscure names
+2020
+ William K. W.  | Earl S.  | Richard A. W. | Keaton D. O.  | Wayne F. P.  | Joshua J. W.  | Darryl E.  | Donovan M.  | Durward R. U.  | Audrecas D. | Adrian D. P. | Beth Q. J. | Terry L. B.  | Anthony K. | Matthew S. H. | Ronald E. | Isai V. | Rasheed C.  | Genaro M. | Phillip M. B.  | Rasheem ". B.  | Phillip V. W. J.  | James L. S.  | John P. H. | Jaesun I. | Gary S. G.  | Burnette T. | Warren A. W. | Keith B.  | Jason M. | Carlos S. | Howard W. | Christopher C. | Dumone D. S.  | Jason J. J.  | Jeanette A.  | Favian M. | James D. G. | Adil J.  | William P. S. J. | Adam W. | Donald B. M. | Rickey W. | Greg T. J. | Dominique S.  | Eddie L. J.  | Elbert D. S.  | Jessie J. J.  | Bradford S. | Johnny H.  | Donald H.  | Lejoy G.  | Joshua M. B.  | Joseph J. | Eli T.  | Elias E. S.  | Thomas U. J. | Izael J.  | David M. M. J. | Francesca J. | Amanda T. | Javier L. | John R. S. | Martin C. | Arnold A. | Seth R. T. | Reuben H. | Gary C.  | Jesse M. S.  | Neil B.  | Paul E. S.  | Thomas ". S. | Kenneth C. L. | Eric J. T.  | Ray A. H.  | Julio G. a. J.  | Ralph ". J. | Jovanna L. | Ross W. M.  | Marcus S. T.  | Name withheld by police | Clevonta ". R. | Akeem C. | Roland C.  | Alisa T. J. | Jason L. E. | Telisha E. | Angela B. | Steven F. P. | Donald F. ". S. | Joseph C. P.  | Ronald D. | Gene M. B.  | William S.  | Jesus H.  | Cixto R. a. S. | Elmer I. R. S. | David E. | Lamont T. H. J. | Tyler S.  | Timothy S. H. | Zak E. R. R. | Joseph P. G. I.  | Andrew J. L. | Daniel G. D.  | Sarah R. | Alfred S. G. | Lucero S. M.  | Marcus G. M. | Joshua D. | Dustin ". F.  | Daniel L. N. | David L. S. | Sandra S. | Larry B. | Daniel J. B. | DeWayne D. S. | Brian H.  | Bernard K. | Russell D.  | Christopher L. B. | Richard M. | Ravinder N.  | Brian M. M.  | James S. C. | Joseph P. | Kimberly A. A. | Janice E. F. | Dontae J. | Orlando L. H.  | Jessie A. S. R.  | Robert C. R. | Armando D. G. | Anthony L.  | Dwight J.  | Manuel D.  | Pamela C.  | Willie M.  | Vincent P. | Alvin L. P. | Calvin A. M. J.  | Kelvin P. | Michael M. | Ronald H.  | Reshird L.  | Zackery W. W.  | Thomas A. P. | Timothy B.  | Michael R.  | Andres E. C. | Nyl R. O. | Albert D. D.  | Susan L. S.  | Christopher S.  | Victor H. S. l.  | David L. K.  | Randy W. M.  | Alfred S. ". C. | Chester L. G.  | Nathan E. V.  | Nick C. D. | William H.  | Mickey O. | Robert T. ". W.  | Miguel A. M.  | Bobby L. S. | Linda C. C. | Wesley A. D. | Luis A. M. | Bobby L. M. J.  | Harvey L. F.  | Clyde D. R. | James C. R. | Chad B. | Rosalio L. | Mario J.  | Irma R. | Jeremiah M. | Wayne E. K. | Aaron M.  | Todd E. W. | Heath J. M.  | Amy J. N.  | Paul B. N. I. | Anthony L. T.  | Allen H.  | Damon E. B.  | Israel L. J.  | Albert M. J.  | Joey C. W.  | Jack D. C.  | William C. G. | Alexander P. | Miguel A. M.  | Santiago U. | Quentin G. | Thomas T. M.  | Moshowon D. ". D.  | Wykyim J. | Eric L. M.  | Steve E. W. | Latia A. W. | Barys R.  | Kenneth ". H. | Stephen B.  | Alexander B. E. | Michael M.  | Robin L. P. M. | Thomas E. S. | Kenneth H. D.  | David R. R. J.  | Tedlee H.  | Albert V. | Jonathan R. | Gabriel D. H. | David S. a. D.  | Mahir S. A.  | Angela R. | Douglas J. F. | Tracy R. W.  | David C. C.  | Jonathan R. S.  | Isaac O.  | Name withheld by police | Warren C. | Shari B. C.  | Ronald W. ". P. | Larry E. W. J.  | Meng X.  | Edward T. F. | Gerald B.  | Charles A. B.  | David H.  | Aaron L. D. | Brenda V. Z.  | April L. K. | Reginald D. W.  | Malcolm S. | Tyler W. H. | Venus M.  | Gaylon C. A. | Clint M.  | Troy W. | Karen G. | Ila J. M. | James J. H. J. | Matthew C. D. | Name withheld by police | Damon K. H. | Elvin D. P. | Rickey J. | Patrick L. G. | Richard A. N. | Jason K. | Jonathan M. S. | Robert R. M. J. | George D. J. | Dirk S.  | Anthony M. B.  | William S. H.  | Sonny V. L. | Artenio R. | Lloyd L.  | Alberta R. B. | Shawn L. G. | Brandon G. | Robert O.  | David M.  | Antonio J. | John C. ". D. | Joseph A.  | Ryan C. | Brian K.  | Melinde M.  | Douglas P. | Frederick J.  | Nathan N. F.  | Christopher A. W.  | Andre A. K.  | Brent I. | Darrell H. P. | Kent K.  | Jose B. | Juan A.  | Nathaniel R.  | Jed W.  | Mark A. S. | Name withheld by police  | Joan R.  | Ricky R. L. | Andy ". H. | Daniel J. E. | Brian M. | Matthew ". S. T.  | Shirley A. | Shawn G.  | Jessica J.  | Jaime P. | Rashid J. J.  | Travis K. Q.  | Name withheld by police | Satnam S.  | Joshua W. G.  | Julie M. W. | Vincent A. T.  | Edward M. W. | Joseph R. A.  | Nicholas E. S.  | Blake B. | Robert L.  | Troy D. M. | Eric F. | Ryan R. D.  | Phillipe L.  | Jimmy H. J.  | Gary M. W.  | Howard T.  | Alex G.  | Marcayla A.  | Jeremy E. H.  | Paul W. G.  | Curtis M. G. | Stephen R.  | James M. S. | Patrick J. F. I.  | Nathan L.  | Charlie F. | Christian F.  | John A.  | Perry L. | Victoria S.  | Kathleen H. | Charlotte G.  | Juan C. | Anthony D. C.  | Delbert E. W.  | Hans G. H. | Name withheld by police  | Raymond I. | Sambo S. | Donald S. | Warren L.  | Tahir A.  | Horace M.  | Russell T. M.  | Mark A. M. | Daniel D. | William J. K.  | Jose J. R. | Darnell M.  | Lawrence D. R. | Donnie E. M. | Ion U. | James S. | Jacob W.  | Jose G. G. | Luis A. G. | Reymundo P. P. | Abdel A. A.  | Danny T.  | Darrell S. | Dennis G.  | Juan C. | Jose O. d. l.  | Jasper L. T.  | Charles T. | Mycol F.  | Christian W. R. | Frank P.  | Eric ". O. I. | Patrick D. T. | Aaron M. C.  | Michael S.  | Karen S.  | Rocky A. W.  | Ronald D. P.  | Name withheld by police | Terrence D. W. J.  | Joe S. J. | Gerald R.  | Travis P. J. | Matthew ". L. H. | Tonya S. | George S. J. | Richard A. D. | William L. C. I. | Arturas K.  | Edward L. S.  | Patrick B.  | Cara C.  | Wade C. S.  | Ut ". N. | Judith G. | Daniel M. | Timothy W.  | Kelly B. | Maurice E. S. J. | Dannie Y.  | James P. A.  | Victoria P.  | Zachary C. M.  | Joe W. | Donald M. H.  | Steven E. C.  | Spencer O.  | Fernando L. | William R. B. I. | Antonio M. J. | Jose O.  | Marbilia G. M. | Louis G.  | Derek M.  | Reginald M. | Daniel E. A. S. | Alfonso P. M.  | Name withheld by police  | Louis E. A. | Kautilious C.  | Raymond L. L.  | Gordon E. W.  | Santos G. S. | Andrew J. R. | Kenneth E. I.  | Justin D. G. | Michael J. S.  | Benjamin H. | Christopher D. B. | Colby J. K.  | Jennifer L. M. C.  | Henry L. B. | Luis M. | Dan M.  | Ethan L. O.  | Vincent C. S. | Billy L. G. J.  | Tremall L. A.  | Louis K.  | Leray H.  | Aaron R.  | Jason K.  | Robert D. D.  | Ernest S. D.  | Paul E. O. | Sylvia B. M. H.  | Name withheld by police  | Timothy G. H.  | Altariq H.  | Delano R. S.  | John V. | Name withheld by police  | Stewart K. W.  | Name withheld by police | Torey B.  | Thomas L. W. J.  | Prince A. B. A.  | Johnny L. W.  | Clifford S. M. | Daron M. P.  | Anthony M. D. C. | Jorge A. S.  | George R. R. J. | Gary W. B.  | Carol J.  | Raymond ". D. | Aaron J. H.  | Colby W. E.  | Dennis G. C.  | Tevita T. F. |
 
 2009
 
